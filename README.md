@@ -30,12 +30,12 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
 | <img src="/Recursos/Imágenes/Soriano.png" width="90"/> | Richard Aaron Soriano Cordova | Líder del equipo | Innovación social, sostenibilidad |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | Jose Gonzalo Saldaña Rodriguez | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | Willian Chuyma Vargas  | Diseñador/a | Diseño de prototipos, creatividad aplicada |
+| <img src="/Recursos/Imágenes/Gonzalo.png" width="90"/> | Jose Gonzalo Saldaña Rodriguez | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| <img src="/Recursos/Imágenes/Chuyma.jpeg" width="90"/> | Willian Chuyma Vargas  | Diseñador/a | Diseño de prototipos, creatividad aplicada |
 | <img src="/Recursos/Imágenes/jara.jpeg" width="90"/> | Amador Antonio Jara Castañeda | Encargado/a de documentación | Comunicación científica, redacción técnica |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | Jose Fernando Chavez Lozano | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+| <img src="/Recursos/Imágenes/Joseph.jpeg" width="90"/> | Jose Fernando Chavez Lozano | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
 
 ---
 
-## 📌 Resumen Final  
+## 📌 Resumen Final   
 Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.  
