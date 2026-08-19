@@ -29,11 +29,11 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Nombre 1** | Líder del equipo | Innovación social, sostenibilidad |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Nombre 2** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Nombre 3** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Nombre 4** | Encargado/a de documentación | Comunicación científica, redacción técnica |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Nombre 5** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+| <img src="/Recursos/Imágenes/Soriano.png" width="90"/> | Richard Aaron Soriano Cordova | Líder del equipo | Innovación social, sostenibilidad |
+| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | Jose Gonzalo Saldaña Rodriguez | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | Willian Chuyma Vargas  | Diseñador/a | Diseño de prototipos, creatividad aplicada |
+| <img src="/Recursos/Imágenes/jara.jpeg" width="90"/> | Amador Antonio Jara Castañeda | Encargado/a de documentación | Comunicación científica, redacción técnica |
+| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | Jose Fernando Chavez Lozano | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
 
 ---
 
