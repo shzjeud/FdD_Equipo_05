@@ -42,4 +42,4 @@ Nos proponemos usar la simulación y el modelado computacional para anticipar ri
 ---
 
 ## 📌 Resumen Final   
-Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso. Nuestra apuesta es que la **salud (ODS 3)**, la **innovación en infraestructura (ODS 9)** y la **acción climática (ODS 13)** no son metas separadas, sino tres caras de un mismo desafío: construir soluciones de ingeniería que cuiden a las personas y al entorno en el que viven.
+Este README presenta quiénes somos, qué nos motiva y los ODS en los que queremos enfocar nuestro trabajo durante el curso. Para nosotros, **la Salud y bienestar (ODS 3)**, **la Industria, innovación e infraestructura (ODS 9)** y **la Acción por el clima (ODS 13)** están estrechamente relacionadas. Consideramos que, desde la ingeniería, podemos desarrollar soluciones que respondan a problemas reales, mejoren la calidad de vida de las personas y, al mismo tiempo, contribuyan al cuidado y sostenibilidad de nuestro entorno.
