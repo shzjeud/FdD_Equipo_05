@@ -13,6 +13,9 @@ Hemos decidido enfocar nuestro trabajo en tres **Objetivos de Desarrollo Sosteni
 ### 🏥 ODS 3: Salud y Bienestar
 Buscamos aportar a la mejora del acceso a servicios de salud mediante soluciones tecnológicas. Nos interesan especialmente las herramientas de monitoreo, la telemedicina y los sistemas de información que acerquen la atención médica a las poblaciones con menor cobertura en el país.
 
+### 💼 ODS 8: Trabajo Decente y Crecimiento Económico
+Buscamos contribuir a la promoción de condiciones laborales seguras y adecuadas para los trabajadores. Consideramos especialmente importante la prevención de riesgos y la protección de la seguridad y salud de las personas en actividades laborales de alto riesgo.
+
 ### 🏭 ODS 9: Industria, Innovación e Infraestructura
 Como estudiantes de ingeniería, este objetivo es el eje de nuestra formación. Queremos desarrollar prototipos y modelos que optimicen procesos, aprovechen el análisis de datos y promuevan una infraestructura resiliente e inclusiva, con especial atención a las zonas menos atendidas.
 
@@ -31,13 +34,13 @@ Nos proponemos usar la simulación y el modelado computacional para anticipar ri
 
 ## 👥 Integrantes del Equipo  
 
-| Foto | Nombre | Rol | Intereses |
-|------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/Soriano.png" width="90"/> | Richard Aaron Soriano Cordova | Líder del equipo | Innovación social, sostenibilidad |
-| <img src="/Recursos/Imágenes/Gonzalo.png" width="90"/> | Jose Gonzalo Saldaña Rodriguez | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="/Recursos/Imágenes/Chuyma.jpeg" width="90"/> | Willian Chuyma Vargas  | Diseñador/a | Diseño de prototipos, creatividad aplicada |
-| <img src="/Recursos/Imágenes/Jara.jpeg" width="90"/> | Amador Antonio Jara Castañeda | Encargado/a de documentación | Comunicación científica, redacción técnica |
-| <img src="/Recursos/Imágenes/Chávez Lozano José Fernando.jpeg" width="90"/> | Jose Fernando Chavez Lozano | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+| Foto | Nombre | Rol | Intereses | Correo institucional |
+|------|--------|-----|-----------|----------------------|
+| <img src="/Recursos/Imágenes/Soriano.png" width="90"/> | Richard Aaron Soriano Cordova | Líder del equipo | Innovación social, sostenibilidad | richard.soriano@upch.pe |
+| <img src="/Recursos/Imágenes/Gonzalo.png" width="90"/> | Jose Gonzalo Saldaña Rodriguez | Responsable de investigación | Gestión ambiental, desarrollo comunitario | jose.saldana.r@upch.pe |
+| <img src="/Recursos/Imágenes/Chuyma.jpeg" width="90"/> | Willian Chuyma Vargas | Diseñador/a | Diseño de prototipos, creatividad aplicada | willian.chuyma@upch.pe |
+| <img src="/Recursos/Imágenes/Jara.jpeg" width="90"/> | Amador Antonio Jara Castañeda | Encargado/a de documentación | Comunicación científica, redacción técnica | amador.jara@upch.pe |
+| <img src="/Recursos/Imágenes/Chávez Lozano José Fernando.jpeg" width="90"/> | Jose Fernando Chavez Lozano | Programador/a - Modelador/a | Programación, análisis de datos, simulación | jose.chavez.l@upch.pe | 
 
 ---
 
