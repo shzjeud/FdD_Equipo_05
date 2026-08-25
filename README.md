@@ -5,10 +5,10 @@
 ---
 
 ## 🌍 Descripción del Equipo 
-Somos el **Equipo 05** del curso **Fundamentos de Diseño 2026-2**, conformado por estudiantes de la carrera de Ingeniería Informática / Industrial.  
-Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
+Somos el **Equipo 05** del curso **Fundamentos de Diseño 2026-2**, conformado por estudiantes de la carrera de Ingeniería Informática e Ingeniería Industrial.  
+Nuestro objetivo es aplicar la metodología de diseño para analizar problemáticas actuales y plantear, posteriormente, soluciones innovadoras que contribuyan al bienestar social, la seguridad, la sostenibilidad y el desarrollo tecnológico.  
 
-Hemos decidido enfocar nuestro trabajo en tres **Objetivos de Desarrollo Sostenible (ODS)** que consideramos estrechamente conectados entre sí: la salud de las personas depende de la infraestructura y la tecnología disponibles, y ambas se ven amenazadas por la crisis climática.
+Hemos decidido enfocar nuestro trabajo en cuatro **Objetivos de Desarrollo Sostenible (ODS)** que consideramos estrechamente conectados entre sí: la salud y seguridad de las personas están relacionadas con condiciones laborales, la infraestructura y la tecnología disponibles, aspectos que también pueden verse afectados por los factores ambientales y la crisis climática.
 
 ### 🏥 ODS 3: Salud y Bienestar
 Buscamos aportar a la mejora del acceso a servicios de salud mediante soluciones tecnológicas. Nos interesan especialmente las herramientas de monitoreo, la telemedicina y los sistemas de información que acerquen la atención médica a las poblaciones con menor cobertura en el país.
