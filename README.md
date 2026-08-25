@@ -75,4 +75,4 @@ Ministerio de Energía y Minas. (2026). Reglamento de Seguridad y Salud Ocupacio
 
 Organismo Supervisor de la Inversión en Energía y Minería. (2026). Boletín estadístico de accidentes mortales en la mediana y gran minería. https://rendiciondecuentas.osinergmin.gob.pe/mineria-boletin-accidentes-mortales
 
-Pacto Mundial de Naciones Unidas. (s. f.). ODS: Objetivos de Desarrollo Sostenible. https://www.un.org/sustainabledevelopment/es/sustainable-development-goals/
+Pacto Mundial de Naciones Unidas. (s. f.). ODS: Objetivos de Desarrollo Sostenible. https://www.pactomundial.org/que-puedes-hacer-tu/ods/
