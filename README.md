@@ -8,10 +8,10 @@
 Somos el **Equipo 05** del curso **Fundamentos de Diseño 2026-2**, conformado por estudiantes de la carrera de Ingeniería Informática e Ingeniería Industrial.  
 Nuestro objetivo es aplicar la metodología de diseño para analizar problemáticas actuales y plantear, posteriormente, soluciones innovadoras que contribuyan al bienestar social, la seguridad, la sostenibilidad y el desarrollo tecnológico.  
 
-Hemos decidido enfocar nuestro trabajo en cuatro **Objetivos de Desarrollo Sostenible (ODS)** que consideramos estrechamente conectados entre sí: la salud y seguridad de las personas están relacionadas con condiciones laborales, la infraestructura y la tecnología disponibles, aspectos que también pueden verse afectados por los factores ambientales y la crisis climática.
+Hemos decidido enfocar nuestro trabajo en cuatro **Objetivos de Desarrollo Sostenible (ODS)** que consideramos estrechamente conectados entre sí: la salud y seguridad de las personas están relacionadas con las condiciones laborales, la infraestructura y la tecnología disponibles, aspectos que también pueden verse afectados por los factores ambientales y la crisis climática.
 
 ### 🏥 ODS 3: Salud y Bienestar - ODS PRINCIPAL
-Buscamos aportar a la mejora del acceso a servicios de salud mediante soluciones tecnológicas. Nos interesan especialmente las herramientas de monitoreo, la telemedicina y los sistemas de información que acerquen la atención médica a las poblaciones con menor cobertura en el país.
+Buscamos aportar a la mejora de la salud y el bienestar de las personas. Nos interesan especialmente los aspectos relacionados con la prevención de riesgos y la protección de la salud, especialmente en contextos donde existen condiciones de trabajo de mayor riesgo.
 
 **Meta 3.9:** Reducir sustancialmente el número de muertes y enfermedades producidas por productos químicos peligrosos y por la contaminación del aire, el agua y el suelo.
 
@@ -21,12 +21,12 @@ Buscamos contribuir a la promoción de condiciones laborales seguras y adecuadas
 **Meta 8.8:** Proteger los derechos laborales y promover entornos de trabajo seguros y protegidos para todos los trabajadores.
 
 ### 🏭 ODS 9: Industria, Innovación e Infraestructura
-Como estudiantes de ingeniería, este objetivo es el eje de nuestra formación. Queremos desarrollar prototipos y modelos que optimicen procesos, aprovechen el análisis de datos y promuevan una infraestructura resiliente e inclusiva, con especial atención a las zonas menos atendidas.
+Como estudiantes de ingeniería, este objetivo es el eje de nuestra formación. Nos interesa analizar cómo la infraestructura y los procesos industriales pueden influir en la seguridad, eficiencia y sostenibilidad de las actividades productivas, especialmente en contextos donde existen condiciones de trabajo de mayor riesgo.
 
-**Meta 9.4:** Modernizar la infraestructura y reconvertir las industrias para que sean sostenibles, utilizando los recursos con mayor eficiencia y promoviendo tecnologías y procesos más limpios
+**Meta 9.4:** Modernizar la infraestructura y reconvertir las industrias para que sean sostenibles, utilizando los recursos con mayor eficiencia y promoviendo tecnologías y procesos más limpios.
 
 ### 🌱 ODS 13: Acción por el Clima
-Nos proponemos usar la simulación y el modelado computacional para anticipar riesgos climáticos y apoyar la toma de decisiones. Nos interesan las soluciones que reduzcan la huella ambiental de los procesos productivos y que fortalezcan la capacidad de adaptación de las comunidades vulnerables.
+Nos interesa analizar cómo los factores ambientales y los riesgos relacionados con el clima pueden afectar a las actividades productivas y a las comunidades, especialmente aquellas que presentan una mayor vulnerabilidad.
 
 **Meta 13.1:** Fortalecer la resiliencia y la capacidad de adaptación a los riesgos relacionados con el clima y los desastres naturales.
 ---
@@ -52,7 +52,7 @@ Nos proponemos usar la simulación y el modelado computacional para anticipar ri
 ---
 
 ## 📌 Resumen Final   
-Este README presenta quiénes somos, qué nos motiva y los ODS en los que queremos enfocar nuestro trabajo durante el curso. Para nosotros, la **Salud y bienestar (ODS 3)**, el **Trabajo Decente y Crecimiento Económico (ODS 8)**, la **Industria, innovación e infraestructura (ODS 9)** y la **Acción por el clima (ODS 13)** están estrechamente relacionadas. Consideramos que, desde la ingeniería, podemos desarrollar soluciones que respondan a problemas reales, mejoren la calidad de vida de las personas y, al mismo tiempo, contribuyan al cuidado y sostenibilidad de nuestro entorno.
+Este README presenta quiénes somos, qué nos motiva y los ODS en los que queremos enfocar nuestro trabajo durante el curso. Para nosotros, la **Salud y bienestar (ODS 3)**, el **Trabajo Decente y Crecimiento Económico (ODS 8)**, la **Industria, innovación e infraestructura (ODS 9)** y la **Acción por el clima (ODS 13)** están estrechamente relacionados. Consideramos que, desde la ingeniería, podemos desarrollar soluciones que respondan a problemas reales, mejoren la calidad de vida de las personas y, al mismo tiempo, contribuyan al cuidado y sostenibilidad de nuestro entorno.
 
 ### 📚 Referencias bibliográficas
 Pacto Mundial de Naciones Unidas. (s. f.). ODS: Objetivos de Desarrollo Sostenible. https://www.un.org/sustainabledevelopment/es/sustainable-development-goals/
