@@ -29,6 +29,9 @@ Como estudiantes de ingeniería, este objetivo es el eje de nuestra formación. 
 Nos interesa analizar cómo los factores ambientales y los riesgos relacionados con el clima pueden afectar a las actividades productivas y a las comunidades, especialmente aquellas que presentan una mayor vulnerabilidad.
 
 **Meta 13.1:** Fortalecer la resiliencia y la capacidad de adaptación a los riesgos relacionados con el clima y los desastres naturales.
+
+###⚠️ Tema o problemática a abordar**
+
 ---
 
 ## 📸 Fotografía del Equipo  
