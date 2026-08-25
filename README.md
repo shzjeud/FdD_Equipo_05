@@ -32,6 +32,15 @@ Nos interesa analizar cómo los factores ambientales y los riesgos relacionados 
 
 ### ⚠️ Nuestra problemática a abordar
 
+Nuestro equipo abordará la seguridad y salud ocupacional de los trabajadores en actividades de minería subterránea en el Perú, delimitando nuestra problemática a la exposición a condiciones ambientales potencialmente peligrosas en el interior de las labores mineras, particularmente aquellas relacionadas con la calidad del aire, la presencia de gases y material particulado.
+
+La relevancia de esta problemática se evidencia en las estadísticas de enfermedades ocupacionales del sector minero peruano. Durante el periodo 2011-2020 se registraron 37 899 casos de enfermedades ocupacionales, de los cuales 35 891 (90,74 %) correspondieron a hipoacusia y 1 875 (4,94 %) a neumoconiosis. Asimismo, los agentes físicos representaron 38 181 casos (95,09 %) y los agentes químicos 1 954 casos (4,87 %) (Aquino-Canchari et al., 2022).
+
+La problemática también comprende riesgos agudos asociados a la atmósfera de las labores subterráneas. El Reglamento de Seguridad y Salud Ocupacional en Minería establece medidas específicas para las labores donde existe liberación de gases, incluyendo la ventilación forzada para mantener sus concentraciones por debajo de los límites de exposición ocupacional. Asimismo, contempla medidas de protección frente al monóxido de carbono en determinadas operaciones subterráneas (Ministerio de Energía y Minas [MINEM], 2026).
+
+Esta situación continúa siendo relevante desde el punto de vista de la seguridad minera. En la mediana y gran minería, Osinergmin reportó que hasta junio de 2026 se habían registrado 13 accidentes mortales con 15 víctimas mortales, aunque el índice de accidentabilidad mantiene una tendencia a la baja (Osinergmin, 2026).
+
+Por ello, nos enfocaremos en comprender cómo las condiciones ambientales presentes en las labores de minería subterránea pueden afectar la seguridad, salud y bienestar de los trabajadores, considerando particularmente la calidad del aire, la exposición a gases y material particulado, así como las condiciones de ventilación. En esta etapa no planteamos una solución específica, sino que buscamos caracterizar y comprender la problemática que abordaremos durante el curso.
 
 ---
 
@@ -59,4 +68,11 @@ Nos interesa analizar cómo los factores ambientales y los riesgos relacionados 
 Este README presenta quiénes somos, qué nos motiva y los ODS en los que queremos enfocar nuestro trabajo durante el curso. Para nosotros, la **Salud y bienestar (ODS 3)**, el **Trabajo Decente y Crecimiento Económico (ODS 8)**, la **Industria, innovación e infraestructura (ODS 9)** y la **Acción por el clima (ODS 13)** están estrechamente relacionados. Consideramos que, desde la ingeniería, podemos desarrollar soluciones que respondan a problemas reales, mejoren la calidad de vida de las personas y, al mismo tiempo, contribuyan al cuidado y sostenibilidad de nuestro entorno.
 
 ### 📚 Referencias bibliográficas
+
+Aquino-Canchari, C. R., Huamán-Castillón, K. M., & Jiménez-Mozo, F. (2022). Enfermedades ocupacionales en minería en el Perú, 2011-2020. Revista de la Asociación Española de Especialistas en Medicina del Trabajo, 31(3), 275–282. https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S3020-11602022000300004
+
+Ministerio de Energía y Minas. (2026). Reglamento de Seguridad y Salud Ocupacional en Minería (Ed. 2026). Gobierno del Perú. https://www.gob.pe/institucion/minem/informes-publicaciones/5631689-reglamento-de-seguridad-y-salud-ocupacional-en-mineria-ed-2026
+
+Organismo Supervisor de la Inversión en Energía y Minería. (2026). Boletín estadístico de accidentes mortales en la mediana y gran minería. https://rendiciondecuentas.osinergmin.gob.pe/mineria-boletin-accidentes-mortales
+
 Pacto Mundial de Naciones Unidas. (s. f.). ODS: Objetivos de Desarrollo Sostenible. https://www.un.org/sustainabledevelopment/es/sustainable-development-goals/
