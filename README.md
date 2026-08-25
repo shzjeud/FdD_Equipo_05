@@ -30,7 +30,8 @@ Nos interesa analizar cómo los factores ambientales y los riesgos relacionados 
 
 **Meta 13.1:** Fortalecer la resiliencia y la capacidad de adaptación a los riesgos relacionados con el clima y los desastres naturales.
 
-### ⚠️ Tema o problemática a abordar
+### ⚠️ Nuestra problemática a abordar
+
 
 ---
 
