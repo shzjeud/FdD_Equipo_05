@@ -10,18 +10,25 @@ Nuestro objetivo es aplicar la metodología de diseño para analizar problemáti
 
 Hemos decidido enfocar nuestro trabajo en cuatro **Objetivos de Desarrollo Sostenible (ODS)** que consideramos estrechamente conectados entre sí: la salud y seguridad de las personas están relacionadas con condiciones laborales, la infraestructura y la tecnología disponibles, aspectos que también pueden verse afectados por los factores ambientales y la crisis climática.
 
-### 🏥 ODS 3: Salud y Bienestar
+### 🏥 ODS 3: Salud y Bienestar - ODS PRINCIPAL
 Buscamos aportar a la mejora del acceso a servicios de salud mediante soluciones tecnológicas. Nos interesan especialmente las herramientas de monitoreo, la telemedicina y los sistemas de información que acerquen la atención médica a las poblaciones con menor cobertura en el país.
+
+**Meta 3.9:** Reducir sustancialmente el número de muertes y enfermedades producidas por productos químicos peligrosos y por la contaminación del aire, el agua y el suelo.
 
 ### 💼 ODS 8: Trabajo Decente y Crecimiento Económico
 Buscamos contribuir a la promoción de condiciones laborales seguras y adecuadas para los trabajadores. Consideramos especialmente importante la prevención de riesgos y la protección de la seguridad y salud de las personas en actividades laborales de alto riesgo.
 
+**Meta 8.8:** Proteger los derechos laborales y promover entornos de trabajo seguros y protegidos para todos los trabajadores.
+
 ### 🏭 ODS 9: Industria, Innovación e Infraestructura
 Como estudiantes de ingeniería, este objetivo es el eje de nuestra formación. Queremos desarrollar prototipos y modelos que optimicen procesos, aprovechen el análisis de datos y promuevan una infraestructura resiliente e inclusiva, con especial atención a las zonas menos atendidas.
+
+**Meta 9.4:** Modernizar la infraestructura y reconvertir las industrias para que sean sostenibles, utilizando los recursos con mayor eficiencia y promoviendo tecnologías y procesos más limpios
 
 ### 🌱 ODS 13: Acción por el Clima
 Nos proponemos usar la simulación y el modelado computacional para anticipar riesgos climáticos y apoyar la toma de decisiones. Nos interesan las soluciones que reduzcan la huella ambiental de los procesos productivos y que fortalezcan la capacidad de adaptación de las comunidades vulnerables.
 
+**Meta 13.1:** Fortalecer la resiliencia y la capacidad de adaptación a los riesgos relacionados con el clima y los desastres naturales.
 ---
 
 ## 📸 Fotografía del Equipo  
