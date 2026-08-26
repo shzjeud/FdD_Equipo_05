@@ -36,7 +36,7 @@ Nos interesa analizar cómo los factores ambientales y los riesgos relacionados 
 
 **Meta 13.1:** Fortalecer la resiliencia y la capacidad de adaptación a los riesgos relacionados con el clima y los desastres naturales.
 
-![image alt](
+![image alt](https://github.com/shzjeud/FdD_Equipo_05/blob/317b4c5c54d70a2dd73ef13b7b7ca652cf475707/Recursos/Im%C3%A1genes/ODS13-480x219.jpg)
 
 ### ⚠️ Nuestra problemática a abordar
 
