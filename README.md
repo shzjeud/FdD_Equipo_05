@@ -75,7 +75,7 @@ Por ello, nos enfocaremos en comprender cómo las condiciones ambientales presen
 ---
 
 ## 📌 Resumen Final   
-Este README presenta quiénes somos, qué nos motiva y los ODS en los que queremos enfocar nuestro trabajo durante el curso. Para nosotros, la **Salud y bienestar (ODS 3)**, el **Trabajo Decente y Crecimiento Económico (ODS 8)**, la **Industria, innovación e infraestructura (ODS 9)** y la **Acción por el clima (ODS 13)** están estrechamente relacionados. Consideramos que, desde la ingeniería, podemos analizar problemáticas reales y, posteriormente, plantear soluciones que respondan a problemas reales, mejoren la calidad de vida de las personas y, al mismo tiempo, contribuyan al cuidado y sostenibilidad de nuestro entorno.
+Este README presenta quiénes somos, qué nos motiva y los ODS en los que queremos enfocar nuestro trabajo durante el curso. Para nosotros, la **Salud y bienestar (ODS 3)**, el **Trabajo Decente y Crecimiento Económico (ODS 8)**, la **Industria, innovación e infraestructura (ODS 9)** y la **Acción por el clima (ODS 13)** están estrechamente relacionados. Consideramos que, desde la ingeniería, podemos analizar problemáticas reales y, posteriormente, plantear soluciones que mejoren la calidad de vida de las personas y, al mismo tiempo, contribuyan al cuidado y sostenibilidad de nuestro entorno.
 
 ### 📚 Referencias bibliográficas
 
