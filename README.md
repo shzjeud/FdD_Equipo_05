@@ -19,7 +19,6 @@ Buscamos aportar a la mejora de la salud y el bienestar de las personas. Nos int
 
 ### 💼 ODS 8: Trabajo Decente y Crecimiento Económico
 Buscamos contribuir a la promoción de condiciones laborales seguras y adecuadas para los trabajadores. Consideramos especialmente importante la prevención de riesgos y la protección de la seguridad y salud de las personas en actividades laborales de alto riesgo.
-![image alt](https://github.com/shzjeud/FdD_Equipo_05/blob/3817753ac5930a9710469df7681c0150285558ba/Recursos/Im%C3%A1genes/ODS8.jpg)
 
 **Meta 8.8:** Proteger los derechos laborales y promover entornos de trabajo seguros y protegidos para todos los trabajadores.
 
@@ -28,10 +27,14 @@ Como estudiantes de ingeniería, este objetivo es el eje de nuestra formación. 
 
 **Meta 9.4:** Modernizar la infraestructura y reconvertir las industrias para que sean sostenibles, utilizando los recursos con mayor eficiencia y promoviendo tecnologías y procesos más limpios.
 
+![image alt](
+
 ### 🌱 ODS 13: Acción por el Clima
 Nos interesa analizar cómo los factores ambientales y los riesgos relacionados con el clima pueden afectar a las actividades productivas y a las comunidades, especialmente aquellas que presentan una mayor vulnerabilidad.
 
 **Meta 13.1:** Fortalecer la resiliencia y la capacidad de adaptación a los riesgos relacionados con el clima y los desastres naturales.
+
+![image alt](
 
 ### ⚠️ Nuestra problemática a abordar
 
