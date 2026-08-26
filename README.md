@@ -11,30 +11,30 @@ Nuestro objetivo es aplicar la metodología de diseño para analizar problemáti
 Hemos decidido enfocar nuestro trabajo en cuatro **Objetivos de Desarrollo Sostenible (ODS)** que consideramos estrechamente conectados entre sí: la salud y seguridad de las personas están relacionadas con las condiciones laborales, la infraestructura y la tecnología disponibles, aspectos que también pueden verse afectados por los factores ambientales y la crisis climática.
 
 ### 🏥 ODS 3: Salud y Bienestar - ODS PRINCIPAL
-📌 Buscamos aportar a la mejora de la salud y el bienestar de las personas. Nos interesan especialmente los aspectos relacionados con la prevención de riesgos y la protección de la salud, especialmente en contextos donde existen condiciones de trabajo de mayor riesgo.
+Buscamos aportar a la mejora de la salud y el bienestar de las personas. Nos interesan especialmente los aspectos relacionados con la prevención de riesgos y la protección de la salud, especialmente en contextos donde existen condiciones de trabajo de mayor riesgo.
 
-🎯 **Meta 3.9:** Reducir sustancialmente el número de muertes y enfermedades producidas por productos químicos peligrosos y por la contaminación del aire, el agua y el suelo.
+**Meta 3.9:** Reducir sustancialmente el número de muertes y enfermedades producidas por productos químicos peligrosos y por la contaminación del aire, el agua y el suelo.
 
 ![imagealt](https://github.com/shzjeud/FdD_Equipo_05/blob/de07b7e19ca35142dcb288dbffc9019dedbeffaa/Recursos/Im%C3%A1genes/ODS3.png)
 
 ### 💼 ODS 8: Trabajo Decente y Crecimiento Económico
-📌 Buscamos contribuir a la promoción de condiciones laborales seguras y adecuadas para los trabajadores. Consideramos especialmente importante la prevención de riesgos y la protección de la seguridad y salud de las personas en actividades laborales de alto riesgo.
+Buscamos contribuir a la promoción de condiciones laborales seguras y adecuadas para los trabajadores. Consideramos especialmente importante la prevención de riesgos y la protección de la seguridad y salud de las personas en actividades laborales de alto riesgo.
 
-🎯 **Meta 8.8:** Proteger los derechos laborales y promover entornos de trabajo seguros y protegidos para todos los trabajadores.
+**Meta 8.8:** Proteger los derechos laborales y promover entornos de trabajo seguros y protegidos para todos los trabajadores.
 
 ![image alt](https://github.com/shzjeud/FdD_Equipo_05/blob/5aac54a223f357881af25cd516a804c3455e33b8/Recursos/Im%C3%A1genes/ods_8_480x219.jpg)
 
 ### 🏭 ODS 9: Industria, Innovación e Infraestructura
-📌 Como estudiantes de ingeniería, este objetivo es el eje de nuestra formación. Nos interesa analizar cómo la infraestructura y los procesos industriales pueden influir en la seguridad, eficiencia y sostenibilidad de las actividades productivas, especialmente en contextos donde existen condiciones de trabajo de mayor riesgo.
+Como estudiantes de ingeniería, este objetivo es el eje de nuestra formación. Nos interesa analizar cómo la infraestructura y los procesos industriales pueden influir en la seguridad, eficiencia y sostenibilidad de las actividades productivas, especialmente en contextos donde existen condiciones de trabajo de mayor riesgo.
 
-🎯 **Meta 9.4:** Modernizar la infraestructura y reconvertir las industrias para que sean sostenibles, utilizando los recursos con mayor eficiencia y promoviendo tecnologías y procesos más limpios.
+**Meta 9.4:** Modernizar la infraestructura y reconvertir las industrias para que sean sostenibles, utilizando los recursos con mayor eficiencia y promoviendo tecnologías y procesos más limpios.
 
 ![image alt](https://github.com/shzjeud/FdD_Equipo_05/blob/273c053b20773f26b74f3c701b3ca76277854212/Recursos/Im%C3%A1genes/sdg_9_480x219.jpg)
 
 ### 🌱 ODS 13: Acción por el Clima
-📌 Nos interesa analizar cómo los factores ambientales y los riesgos relacionados con el clima pueden afectar a las actividades productivas y a las comunidades, especialmente aquellas que presentan una mayor vulnerabilidad.
+Nos interesa analizar cómo los factores ambientales y los riesgos relacionados con el clima pueden afectar a las actividades productivas y a las comunidades, especialmente aquellas que presentan una mayor vulnerabilidad.
 
-🎯 **Meta 13.1:** Fortalecer la resiliencia y la capacidad de adaptación a los riesgos relacionados con el clima y los desastres naturales.
+**Meta 13.1:** Fortalecer la resiliencia y la capacidad de adaptación a los riesgos relacionados con el clima y los desastres naturales.
 
 ![image alt](https://github.com/shzjeud/FdD_Equipo_05/blob/317b4c5c54d70a2dd73ef13b7b7ca652cf475707/Recursos/Im%C3%A1genes/ODS13-480x219.jpg)
 
@@ -50,7 +50,7 @@ Esta situación continúa siendo relevante desde el punto de vista de la segurid
 
 Por ello, nos enfocaremos en comprender cómo las condiciones ambientales presentes en las labores de minería subterránea pueden afectar la seguridad, salud y bienestar de los trabajadores, considerando particularmente la calidad del aire, la exposición a gases y material particulado, así como las condiciones de ventilación. En esta etapa no planteamos una solución específica, sino que buscamos caracterizar y comprender la problemática que abordaremos durante el curso.
 
-![image alt](https://github.com/shzjeud/FdD_Equipo_05/blob/055571affc67ab7f94f40f03502cb7202018bbff/Recursos/Im%C3%A1genes/R.jpg) 
+  ![image alt](https://github.com/shzjeud/FdD_Equipo_05/blob/055571affc67ab7f94f40f03502cb7202018bbff/Recursos/Im%C3%A1genes/R.jpg) 
 
 ---
 
