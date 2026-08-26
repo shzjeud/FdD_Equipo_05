@@ -22,6 +22,8 @@ Buscamos contribuir a la promoción de condiciones laborales seguras y adecuadas
 
 **Meta 8.8:** Proteger los derechos laborales y promover entornos de trabajo seguros y protegidos para todos los trabajadores.
 
+![image alt](https://github.com/shzjeud/FdD_Equipo_05/blob/5aac54a223f357881af25cd516a804c3455e33b8/Recursos/Im%C3%A1genes/ods_8_480x219.jpg)
+
 ### 🏭 ODS 9: Industria, Innovación e Infraestructura
 Como estudiantes de ingeniería, este objetivo es el eje de nuestra formación. Nos interesa analizar cómo la infraestructura y los procesos industriales pueden influir en la seguridad, eficiencia y sostenibilidad de las actividades productivas, especialmente en contextos donde existen condiciones de trabajo de mayor riesgo.
 
