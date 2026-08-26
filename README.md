@@ -15,7 +15,7 @@ Buscamos aportar a la mejora de la salud y el bienestar de las personas. Nos int
 
 **Meta 3.9:** Reducir sustancialmente el número de muertes y enfermedades producidas por productos químicos peligrosos y por la contaminación del aire, el agua y el suelo.
 
-https://github.com/shzjeud/FdD_Equipo_05/blob/de07b7e19ca35142dcb288dbffc9019dedbeffaa/Recursos/Im%C3%A1genes/ODS3.png
+![imagealt](https://github.com/shzjeud/FdD_Equipo_05/blob/de07b7e19ca35142dcb288dbffc9019dedbeffaa/Recursos/Im%C3%A1genes/ODS3.png)
 
 ### 💼 ODS 8: Trabajo Decente y Crecimiento Económico
 Buscamos contribuir a la promoción de condiciones laborales seguras y adecuadas para los trabajadores. Consideramos especialmente importante la prevención de riesgos y la protección de la seguridad y salud de las personas en actividades laborales de alto riesgo.
