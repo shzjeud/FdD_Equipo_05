@@ -29,7 +29,7 @@ Como estudiantes de ingeniería, este objetivo es el eje de nuestra formación. 
 
 **Meta 9.4:** Modernizar la infraestructura y reconvertir las industrias para que sean sostenibles, utilizando los recursos con mayor eficiencia y promoviendo tecnologías y procesos más limpios.
 
-![image alt](
+![image alt](https://github.com/shzjeud/FdD_Equipo_05/blob/dff0ef077faf6e50a76de69c6794560171c4338d/Recursos/Im%C3%A1genes/sdg%209%20grande%20es%20(1).jpg)
 
 ### 🌱 ODS 13: Acción por el Clima
 Nos interesa analizar cómo los factores ambientales y los riesgos relacionados con el clima pueden afectar a las actividades productivas y a las comunidades, especialmente aquellas que presentan una mayor vulnerabilidad.
