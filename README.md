@@ -81,13 +81,8 @@ Este README presenta quiénes somos, qué nos motiva y los ODS en los que querem
 
 Aquino-Canchari, C. R., Huamán-Castillón, K. M., & Jiménez-Mozo, F. (2022). Enfermedades ocupacionales en minería en el Perú, 2011-2020. Revista de la Asociación Española de Especialistas en Medicina del Trabajo, 31(3), 275–282. https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S3020-11602022000300004
 
-Asencio Puma, F. (2026). Implementación de un sistema de monitoreo ambiental con sensores inteligentes para mejorar la seguridad en pequeña minería subterránea, Trujillo 2024 [Tesis de licenciatura, Universidad Católica de Santa María]. Repositorio Institucional de la Universidad Católica de Santa María. https://hdl.handle.net/20.500.12920/16760
-
 Ministerio de Energía y Minas. (2026). Reglamento de Seguridad y Salud Ocupacional en Minería (Ed. 2026). Gobierno del Perú. https://www.gob.pe/institucion/minem/informes-publicaciones/5631689-reglamento-de-seguridad-y-salud-ocupacional-en-mineria-ed-2026
 
 Organismo Supervisor de la Inversión en Energía y Minería. (2026). Boletín estadístico de accidentes mortales en la mediana y gran minería. https://rendiciondecuentas.osinergmin.gob.pe/mineria-boletin-accidentes-mortales
 
 Pacto Mundial de Naciones Unidas. (s. f.). ODS: Objetivos de Desarrollo Sostenible. https://www.pactomundial.org/que-puedes-hacer-tu/ods/
-
-Wang, Z., Yang, L., & Yu, T. (2024). Underground coal mine safety electronic monitoring device (Patent No. CN220667645U). China National Intellectual Property Administration. https://patents.google.com/patent/CN220667645U/en
-
