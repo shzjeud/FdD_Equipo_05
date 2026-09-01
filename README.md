@@ -51,44 +51,38 @@ Esta situación continúa siendo relevante desde el punto de vista de la segurid
 Por ello, nos enfocaremos en comprender cómo las condiciones ambientales presentes en las labores de minería subterránea pueden afectar la seguridad, salud y bienestar de los trabajadores, considerando particularmente la calidad del aire, la exposición a gases y material particulado, así como las condiciones de ventilación. En esta etapa no planteamos una solución específica, sino que buscamos caracterizar y comprender la problemática que abordaremos durante el curso.
 
   ![image alt](https://github.com/shzjeud/FdD_Equipo_05/blob/055571affc67ab7f94f40f03502cb7202018bbff/Recursos/Im%C3%A1genes/R.jpg) 
+  
+# Estado de la tecnología / Antecedentes
 
-### Estado de la tecnología / antecedentes
+---
 
-## TESIS
+## 📚 TESIS
 
-¿Qué investigaciones ya hicieron sobre este problema?
+---
 
-¿Qué sistemas desarrollaron?
+## 📄 ARTÍCULOS ACADÉMICOS
 
-¿Qué sensores utilizaron?
+---
 
-¿Qué resultados obtuvieron?
+## 📜 PATENTES
 
-¿Qué limitaciones tuvieron?
+### CN220667645U — Dispositivo electrónico de monitorización de seguridad en minas subterráneas
 
-### PATENTES
+La patente propone un dispositivo para el **monitoreo de seguridad en minas subterráneas de carbón**, integrando sensores de **metano, monóxido de carbono, polvo y humo** para supervisar continuamente la calidad del aire. El sistema incorpora además ventiladores, una cámara de monitoreo, comunicación inalámbrica y una alarma sonora, permitiendo transmitir los datos a un terminal externo y generar alertas ante condiciones peligrosas. De esta manera, presenta una solución tecnológica basada en la **detección de contaminantes, monitoreo remoto y generación de alertas** frente a riesgos ambientales en labores subterráneas. Este antecedente permite identificar tecnologías y métodos de detección y alerta ya desarrollados que serán considerados posteriormente al establecer las exigencias de nuestra propuesta **(Wang et al., 2024)**.
 
-¿Qué soluciones tecnológicas ya fueron patentadas?
+---
 
-¿Qué sistemas de monitoreo existen?
+## 🛒 PRODUCTOS COMERCIALES
 
-¿Qué métodos de detección/alerta ya están protegidos?
+---
 
-### PRODUCTOS COMERCIALES
+## 🎥 PROYECTOS Y PROTOTIPOS
 
-¿Qué equipos existen actualmente en el mercado?
+---
 
-¿Qué gases pueden detectar?
+## 🔎 OBJETIVO DE LA REVISIÓN
 
-¿Miden material particulado?
-
-¿Son portátiles?
-
-¿Tienen alarmas?
-
-¿Transmiten datos?
-
-¿Cuánto cuestan aproximadamente?
+La revisión de **tesis, patentes, productos comerciales y proyectos existentes** permitirá conocer las tecnologías disponibles, identificar soluciones ya desarrolladas y reconocer posibles **limitaciones y oportunidades de mejora** que serán consideradas en las siguientes etapas del diseño.
 
 ---
 
