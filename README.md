@@ -52,48 +52,6 @@ Por ello, nos enfocaremos en comprender cómo las condiciones ambientales presen
 
   ![image alt](https://github.com/shzjeud/FdD_Equipo_05/blob/055571affc67ab7f94f40f03502cb7202018bbff/Recursos/Im%C3%A1genes/R.jpg) 
   
-# Estado de la tecnología / Antecedentes
-
----
-
-## 📚 TESIS
-
-### Tesis — Asencio Puma (2026)
-
-• **Introducción:** La investigación aborda los riesgos asociados a la **acumulación de gases y la deficiente calidad del aire** en minería subterránea, proponiendo un sistema de monitoreo ambiental mediante sensores inteligentes de **O₂ y CO** para mejorar la seguridad de los trabajadores.
-
-• **Metodología:** Se realizó un estudio **cuantitativo y cuasiexperimental** en una operación de pequeña minería subterránea en Trujillo. Primero se estableció una línea base mediante mediciones manuales durante tres meses en la bocamina, galería inicial y frente de avance. Posteriormente, se implementaron sensores fijos de O₂ y CO conectados mediante **LoRaWAN**, con registros automáticos cada cinco minutos y generación de alertas.
-
-• **Resultados:** Durante el monitoreo inicial, el **22 % de las mediciones de O₂** se encontró por debajo del límite de 19,5 %, mientras que el **18 % de los registros de CO** superó las 25 ppm. Después de implementar el sistema, se obtuvo monitoreo continuo y alertas automáticas, registrándose reducciones de **62 % a 72 % en las alarmas de O₂** y de **60 % a 66 % en las de CO**.
-
-• **Conclusión:** El sistema demostró ser **técnicamente viable y económicamente accesible** para la pequeña minería, permitiendo reemplazar el monitoreo manual y ocasional por un sistema continuo de detección y alerta. Este antecedente permite identificar una solución que integra **detección de gases y material particulado, monitoreo remoto y generación de alertas**, evidenciando las tecnologías empleadas para la supervisión de condiciones ambientales en minería subterránea.
-
----
-
-## 📄 ARTÍCULOS ACADÉMICOS
-
----
-
-## 📜 PATENTES
-
-### CN220667645U — Dispositivo electrónico de monitorización de seguridad en minas subterráneas
-
-La patente propone un dispositivo para el **monitoreo de seguridad en minas subterráneas de carbón**, integrando sensores de **metano, monóxido de carbono, polvo y humo** para supervisar continuamente la calidad del aire. El sistema incorpora además ventiladores, una cámara de monitoreo, comunicación inalámbrica y una alarma sonora, permitiendo transmitir los datos a un terminal externo y generar alertas ante condiciones peligrosas. De esta manera, presenta una solución tecnológica basada en la **detección de contaminantes, monitoreo remoto y generación de alertas** frente a riesgos ambientales en labores subterráneas. Este antecedente permite identificar tecnologías y métodos de detección y alerta ya desarrollados que serán considerados posteriormente al establecer las exigencias de nuestra propuesta **(Wang et al., 2024)**.
-
----
-
-## 🛒 PRODUCTOS COMERCIALES
-
----
-
-## 🎥 PROYECTOS Y PROTOTIPOS
-
----
-
-## 🔎 OBJETIVO DE LA REVISIÓN
-
-La revisión de **tesis, patentes, productos comerciales y proyectos existentes** permitirá conocer las tecnologías disponibles, identificar soluciones ya desarrolladas y reconocer posibles **limitaciones y oportunidades de mejora** que serán consideradas en las siguientes etapas del diseño.
-
 ---
 
 ## 📸 Fotografía del Equipo  
