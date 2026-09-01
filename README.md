@@ -66,7 +66,7 @@ Por ello, nos enfocaremos en comprender cómo las condiciones ambientales presen
 
 • **Resultados:** Durante el monitoreo inicial, el **22 % de las mediciones de O₂** se encontró por debajo del límite de 19,5 %, mientras que el **18 % de los registros de CO** superó las 25 ppm. Después de implementar el sistema, se obtuvo monitoreo continuo y alertas automáticas, registrándose reducciones de **62 % a 72 % en las alarmas de O₂** y de **60 % a 66 % en las de CO**.
 
-• **Conclusión:** El sistema demostró ser **técnicamente viable y económicamente accesible** para la pequeña minería, permitiendo reemplazar el monitoreo manual y ocasional por un sistema continuo de detección y alerta. Este antecedente es relevante para el Equipo 05 debido a su aplicación de **sensores, comunicación inalámbrica y alertas para el monitoreo de condiciones ambientales peligrosas** en minería subterránea.
+• **Conclusión:** El sistema demostró ser **técnicamente viable y económicamente accesible** para la pequeña minería, permitiendo reemplazar el monitoreo manual y ocasional por un sistema continuo de detección y alerta. Este antecedente permite identificar una solución que integra **detección de gases y material particulado, monitoreo remoto y generación de alertas**, evidenciando las tecnologías empleadas para la supervisión de condiciones ambientales en minería subterránea.
 
 ---
 
@@ -122,6 +122,8 @@ Este README presenta quiénes somos, qué nos motiva y los ODS en los que querem
 ### 📚 Referencias bibliográficas
 
 Aquino-Canchari, C. R., Huamán-Castillón, K. M., & Jiménez-Mozo, F. (2022). Enfermedades ocupacionales en minería en el Perú, 2011-2020. Revista de la Asociación Española de Especialistas en Medicina del Trabajo, 31(3), 275–282. https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S3020-11602022000300004
+
+Asencio Puma, F. (2026). Implementación de un sistema de monitoreo ambiental con sensores inteligentes para mejorar la seguridad en pequeña minería subterránea, Trujillo 2024 [Tesis de licenciatura, Universidad Católica de Santa María]. Repositorio Institucional de la Universidad Católica de Santa María. https://hdl.handle.net/20.500.12920/16760
 
 Ministerio de Energía y Minas. (2026). Reglamento de Seguridad y Salud Ocupacional en Minería (Ed. 2026). Gobierno del Perú. https://www.gob.pe/institucion/minem/informes-publicaciones/5631689-reglamento-de-seguridad-y-salud-ocupacional-en-mineria-ed-2026
 
