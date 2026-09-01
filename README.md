@@ -57,25 +57,37 @@ Por ello, nos enfocaremos en comprender cómo las condiciones ambientales presen
 ## TESIS
 
 ¿Qué investigaciones ya hicieron sobre este problema?
+
 ¿Qué sistemas desarrollaron?
+
 ¿Qué sensores utilizaron?
+
 ¿Qué resultados obtuvieron?
+
 ¿Qué limitaciones tuvieron?
 
 ### PATENTES
 
 ¿Qué soluciones tecnológicas ya fueron patentadas?
+
 ¿Qué sistemas de monitoreo existen?
+
 ¿Qué métodos de detección/alerta ya están protegidos?
 
 ### PRODUCTOS COMERCIALES
 
 ¿Qué equipos existen actualmente en el mercado?
+
 ¿Qué gases pueden detectar?
+
 ¿Miden material particulado?
+
 ¿Son portátiles?
+
 ¿Tienen alarmas?
+
 ¿Transmiten datos?
+
 ¿Cuánto cuestan aproximadamente?
 
 ---
