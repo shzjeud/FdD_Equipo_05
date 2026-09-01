@@ -58,6 +58,16 @@ Por ello, nos enfocaremos en comprender cómo las condiciones ambientales presen
 
 ## 📚 TESIS
 
+### Tesis — Asencio Puma (2026)
+
+• **Introducción:** La investigación aborda los riesgos asociados a la **acumulación de gases y la deficiente calidad del aire** en minería subterránea, proponiendo un sistema de monitoreo ambiental mediante sensores inteligentes de **O₂ y CO** para mejorar la seguridad de los trabajadores.
+
+• **Metodología:** Se realizó un estudio **cuantitativo y cuasiexperimental** en una operación de pequeña minería subterránea en Trujillo. Primero se estableció una línea base mediante mediciones manuales durante tres meses en la bocamina, galería inicial y frente de avance. Posteriormente, se implementaron sensores fijos de O₂ y CO conectados mediante **LoRaWAN**, con registros automáticos cada cinco minutos y generación de alertas.
+
+• **Resultados:** Durante el monitoreo inicial, el **22 % de las mediciones de O₂** se encontró por debajo del límite de 19,5 %, mientras que el **18 % de los registros de CO** superó las 25 ppm. Después de implementar el sistema, se obtuvo monitoreo continuo y alertas automáticas, registrándose reducciones de **62 % a 72 % en las alarmas de O₂** y de **60 % a 66 % en las de CO**.
+
+• **Conclusión:** El sistema demostró ser **técnicamente viable y económicamente accesible** para la pequeña minería, permitiendo reemplazar el monitoreo manual y ocasional por un sistema continuo de detección y alerta. Este antecedente es relevante para el Equipo 05 debido a su aplicación de **sensores, comunicación inalámbrica y alertas para el monitoreo de condiciones ambientales peligrosas** en minería subterránea.
+
 ---
 
 ## 📄 ARTÍCULOS ACADÉMICOS
