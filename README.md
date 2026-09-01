@@ -52,6 +52,32 @@ Por ello, nos enfocaremos en comprender cómo las condiciones ambientales presen
 
   ![image alt](https://github.com/shzjeud/FdD_Equipo_05/blob/055571affc67ab7f94f40f03502cb7202018bbff/Recursos/Im%C3%A1genes/R.jpg) 
 
+### Estado de la tecnología / antecedentes
+
+## TESIS
+
+¿Qué investigaciones ya hicieron sobre este problema?
+¿Qué sistemas desarrollaron?
+¿Qué sensores utilizaron?
+¿Qué resultados obtuvieron?
+¿Qué limitaciones tuvieron?
+
+### PATENTES
+
+¿Qué soluciones tecnológicas ya fueron patentadas?
+¿Qué sistemas de monitoreo existen?
+¿Qué métodos de detección/alerta ya están protegidos?
+
+### PRODUCTOS COMERCIALES
+
+¿Qué equipos existen actualmente en el mercado?
+¿Qué gases pueden detectar?
+¿Miden material particulado?
+¿Son portátiles?
+¿Tienen alarmas?
+¿Transmiten datos?
+¿Cuánto cuestan aproximadamente?
+
 ---
 
 ## 📸 Fotografía del Equipo  
