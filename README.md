@@ -124,3 +124,6 @@ Ministerio de Energía y Minas. (2026). Reglamento de Seguridad y Salud Ocupacio
 Organismo Supervisor de la Inversión en Energía y Minería. (2026). Boletín estadístico de accidentes mortales en la mediana y gran minería. https://rendiciondecuentas.osinergmin.gob.pe/mineria-boletin-accidentes-mortales
 
 Pacto Mundial de Naciones Unidas. (s. f.). ODS: Objetivos de Desarrollo Sostenible. https://www.pactomundial.org/que-puedes-hacer-tu/ods/
+
+Wang, Z., Yang, L., & Yu, T. (2024). Underground coal mine safety electronic monitoring device (Patent No. CN220667645U). China National Intellectual Property Administration. https://patents.google.com/patent/CN220667645U/en
+
