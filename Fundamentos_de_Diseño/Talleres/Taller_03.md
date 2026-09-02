@@ -26,7 +26,7 @@ Documento compartido:
 
 https://docs.google.com/document/d/1l9tRPn6Qk1oJSVGrcFGP6qKJbPwjnJntbNSGrZ6dly4/edit?usp=sharing
 
-PDF:
+PDF (No editable):
 
 [Entregable_2_ Avance (1).pdf](https://github.com/user-attachments/files/31749697/Entregable_2_.Avance.1.pdf)
 
