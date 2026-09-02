@@ -124,6 +124,3 @@ Implementación de un sistema de monitoreo ambiental con sensores inteligentes p
 Useche Galindo LJ. Sistema automatizado de supervisión y control de gases contaminantes en minas subterráneas [Internet]. 10 de febrero de 2026 [citado 2 de septiembre de 2026]. Disponible en: http://hdl.handle.net/11349/100323
 
 Pozo Bulnes CA, Ari Uturonco JAN. Modelamiento y diagnóstico del circuito actual de ventilación en una mina subterránea y propuesta de mejora [Internet]. 2023 [citado 2 de septiembre de 2026]. Disponible en: http://hdl.handle.net/20.500.12404/25925
-
-### 📚 Referencias bibliográficas (PROYECTO)
-
