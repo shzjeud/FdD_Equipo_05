@@ -77,7 +77,7 @@ Por ello, nos enfocaremos en comprender cómo las condiciones ambientales presen
 ## 📌 Resumen Final   
 Este README presenta quiénes somos, qué nos motiva y los ODS en los que queremos enfocar nuestro trabajo durante el curso. Para nosotros, la **Salud y bienestar (ODS 3)**, el **Trabajo Decente y Crecimiento Económico (ODS 8)**, la **Industria, innovación e infraestructura (ODS 9)** y la **Acción por el clima (ODS 13)** están estrechamente relacionados. Consideramos que, desde la ingeniería, podemos analizar problemáticas reales y, posteriormente, plantear soluciones que mejoren la calidad de vida de las personas y, al mismo tiempo, contribuyan al cuidado y sostenibilidad de nuestro entorno.
 
-### 📚 Referencias bibliográficas
+### 📚 Referencias bibliográficas (README)
 
 Aquino-Canchari, C. R., Huamán-Castillón, K. M., & Jiménez-Mozo, F. (2022). Enfermedades ocupacionales en minería en el Perú, 2011-2020. Revista de la Asociación Española de Especialistas en Medicina del Trabajo, 31(3), 275–282. https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S3020-11602022000300004
 
@@ -86,3 +86,40 @@ Ministerio de Energía y Minas. (2026). Reglamento de Seguridad y Salud Ocupacio
 Organismo Supervisor de la Inversión en Energía y Minería. (2026). Boletín estadístico de accidentes mortales en la mediana y gran minería. https://rendiciondecuentas.osinergmin.gob.pe/mineria-boletin-accidentes-mortales
 
 Pacto Mundial de Naciones Unidas. (s. f.). ODS: Objetivos de Desarrollo Sostenible. https://www.pactomundial.org/que-puedes-hacer-tu/ods/
+
+### 📚 Referencias bibliográficas (PROYECTO)
+
+Aquino-Canchari CR, Huamán-Castillón KM, Jiménez-Mozo F. Enfermedades ocupacionales en minería en el Perú, 2011-2020. Rev Asoc Esp Espec Med Trab [Internet]. 2022;31(3):275-282. Disponible en: https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S3020-11602022000300004
+
+Paluchamy B, Mishra DP, Panigrahi DC. Airborne respirable dust in fully mechanised underground metalliferous mines – generation, health impacts and control measures for cleaner production. J Clean Prod. 2021;296:126524. Disponible en:  https://www.sciencedirect.com/science/article/abs/pii/S0959652621007447
+
+Cárdenas Gonzáles D. Mejoramiento del sistema de ventilación de minas para suministrar aire limpio a las labores subterráneas [tesis]. Lima: Universidad Nacional de Ingeniería; 2020. Disponible en: https://repositorio.uni.edu.pe/handle/20.500.14076/21710
+
+Quispe Rodríguez I, Alarcón Medina EC. Emisión gas de estrato y efectos sobre la salud de trabajadores en operaciones mineras-Mina Catalina Huanca, 2023. Rev Inv [Internet]. 2024;31(1). Disponible en: https://revistas.unsch.edu.pe/index.php/investigacion/article/view/699
+
+Ministerio de Energía y Minas. Reglamento de seguridad y salud ocupacional en minería. Edición 2026 [Internet]. Lima: MINEM; 2026. Disponible en: https://www.gob.pe/institucion/minem/informes-publicaciones/5631689-reglamento-de-seguridad-y-salud-ocupacional-en-mineria-ed-2026 
+
+Naik A, Reddy SK. A systematic review on implementation of Internet-of-Things-based system in underground mines to monitor environmental parameters. J Inst Eng India Ser D [Internet]. 2023;105:1273-1289.  Disponible en: https://link.springer.com/article/10.1007/s40033-023-00541-3
+
+Maestro Digital Mine. Vigilante AQS™ V2 – Air Quality Station [Internet]. Disponible en: Vigilante AQS™ V2 – Air Quality Station https://www.maestrodigitalmine.com/products/vigilante-aqs-air-quality-station
+
+Trolex. Supporting underground health and safety in real time [Internet]. Disponible en: https://trolex.com/supporting-underground-health-and-safety-in-real-time/
+Conspec Controls. Underground Mining & Tunneling – Monitoring & Ventilation Control Equipment [Internet]. Disponible en: https://conspec-controls.com/industries/mining-tunneling/
+
+Wang Z, Yang L, Yu T. Underground coal mine safety electronic monitoring device [Internet]. China: CN220667645U; 2024 Mar 26. Disponible en: https://patents.google.com/patent/CN220667645U/en
+
+Gas Monitor, System and Method. US20150145685A1 [patent]. 2015 May 28. Disponible en: https://patents.google.com/patent/US20150145685A1/en?oq=US20150145685A1
+Recent advancements in IoT implementation for environmental, safety, and production monitoring in underground mines. IEEE Internet Things J. 2023. https://www.mdpi.com/1424-8220/14/7/13149
+
+A wireless sensor network for coal mine safety powered by modified localization algorithm. Heliyon. https://www.cell.com/heliyon/fulltext/S2405-8440(24)17293-3
+An integrated environment monitoring system for underground coal mines—wireless sensor network subsystem with multi-parameter monitoring. Sensors. 2014;14(7):13113-13136. Disponible en: https://pmc.ncbi.nlm.nih.gov/articles/PMC4168491/
+
+Bashu B, Srikanth B. Artificial Intelligence Enabled Wireless Sensor Network for Underground Mines Safety: A Systematic Review. J Inst Eng India Ser D [Internet]. 2025. Disponible en: https://link.springer.com/article/10.1007/s40033-025-00971-1 
+
+Asencio Puma F. Implementación de un sistema de monitoreo ambiental con sensores inteligentes para mejorar la seguridad en pequeña minería subterránea, Trujillo 2024 [tesis]. Arequipa: Universidad Católica de Santa María; 2026. Disponible en: https://repositorio.ucsm.edu.pe/items/cbbd5c57-d136-44a1-b833-32aa96c
+
+Useche Galindo LJ. Sistema automatizado de supervisión y control de gases contaminantes en minas subterráneas [tesis de especialización]. Bogotá: Universidad Distrital Francisco José de Caldas; 2025. Disponible en: https://repository.udistrital.edu.co/items/e0a86332-cac5-4ea1-aade-cc0cb4b821eb/full
+
+Pozo Bulnes CA, Ari Uturonco JAN. Modelamiento y diagnóstico del circuito actual de ventilación en una mina subterránea y propuesta de mejora [tesis]. Lima: Pontificia Universidad Católica del Perú; 2023. Disponible en; https://www.mdpi.com/1424-8220/14/7/13149
+
+
