@@ -28,4 +28,4 @@ https://docs.google.com/document/d/1l9tRPn6Qk1oJSVGrcFGP6qKJbPwjnJntbNSGrZ6dly4/
 PDF:
 [Entregable_2_ Avance.pdf](https://github.com/user-attachments/files/31746270/Entregable_2_.Avance.pdf)
 
-Grupo Zotero: https://www.zotero.org/groups/6656685/fdd05
+Grupo Zotero: [grupo_zotero](https://www.zotero.org/groups/6656685/fdd05)
