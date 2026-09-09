@@ -32,6 +32,8 @@
 | Gestión de emergencias | Proporciona información durante situaciones de emergencia | Mejora de la respuesta y rescate |
 | Gestión integrada | Unifica diferentes fuentes de información | Mayor eficiencia en la gestión de la mina |
 
+**Imágenes** :
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4227d81d-e294-4fc3-b1a3-5d9d76f7d489" width="250" alt="Patente, página 1" />
   <img src="https://github.com/user-attachments/assets/02f9c38b-9025-449b-8a45-7cf7b4e63f74" width="250" alt="Patente, página 2" />
