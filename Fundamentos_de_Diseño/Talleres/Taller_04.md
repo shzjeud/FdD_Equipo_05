@@ -47,6 +47,15 @@
 
 **Enlace** : https://worldwide.espacenet.com/patent/search/family/067333644/publication/CN209163870U?q=pn%3DCN209163870U
 
+- **Titular:** GUIZHOU YUNENG INVEST CO LTD
+- **Inventores:** HU HONGYIN; LEI YONG
+- **Clasificación IPC:** E21F17/18
+- **Fecha de prioridad:** 12 de octubre de 2018
+- **Publicación:** 26 de julio de 2019
+- **Tecnología:** Dispositivo automático de alarma de gas para minas de carbón.
+- **Aporte principal:** Detecta automáticamente la concentración de gas mediante un sensor y activa una alarma sonora y visual.
+- **Valor:** Permite advertir rápidamente al trabajador ante niveles peligrosos de gas y facilita la adopción de medidas de emergencia.
+
 ### CN105781618A
 
 - **Titular:** HUAYANG COMMUNICATION TECH CO LTD
