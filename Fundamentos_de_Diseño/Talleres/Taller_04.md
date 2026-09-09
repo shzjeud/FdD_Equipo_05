@@ -79,14 +79,15 @@
 
 **Enlace** : https://patents.google.com/patent/CN111441817B/en
 
-- **Titular:** GUIZHOU YUNENG INVEST CO LTD
-- **Inventores:** HU HONGYIN; LEI YONG
-- **Clasificación IPC:** E21F17/18
-- **Fecha de prioridad:** 12 de octubre de 2018
-- **Publicación:** 26 de julio de 2019
-- **Tecnología:** Dispositivo automático de alarma de gas para minas de carbón.
-- **Aporte principal:** Detecta automáticamente la concentración de gas mediante un sensor y activa una alarma sonora y visual.
-- **Valor:** Permite advertir rápidamente al trabajador ante niveles peligrosos de gas y facilita la adopción de medidas de emergencia.
+- **Titular:** China University of Mining and Technology, Beijing (CUMTB)
+- **Inventores:** LI NANYAN; MAN YUE; FANG LIULIN; ZHAO HUI
+- **Clasificación IPC:** E21F7/00
+- **Fecha de prioridad:** 02 de abril de 2020
+- **Publicación:** 10 de noviembre de 2020
+- **Estado:** Activa
+- **Tecnología:** Extracción mejorada de gas mediante fracturación hidráulica por chorro y presión minera.
+- **Aporte principal:** Combina la fracturación del carbón con la presión generada por la explotación minera para aumentar las fracturas y la permeabilidad del carbón.
+- **Valor:** Mejora la eficiencia y seguridad de la extracción de gas, reduce la presión del carbón y disminuye los riesgos asociados al gas en la mina.
 
 | Característica | Aporte | Valor generado |
 |---|---|---|
