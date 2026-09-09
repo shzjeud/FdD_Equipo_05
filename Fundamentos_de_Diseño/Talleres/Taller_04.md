@@ -35,6 +35,7 @@
 
 ## Patente Número 3
 **Código** : (ctxt = "mining" OR ctxt = "coal") AND ctxt = "gas" AND ctxt = "method" AND (ctxt = "drainage" OR ctxt = "extraction") AND ctxt = "hydraulic"
+
 **Número de publicación:** CN111441817B  
 **Titular indicado:** China University of Mining and Technology, Beijing  
 **Fecha de concesión y publicación:** 10 de noviembre de 2020  
