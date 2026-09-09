@@ -121,7 +121,9 @@
 | Cobertura uniforme del yacimiento | Distribuye estratégicamente las perforaciones y fracturas | Aprovechamiento más completo del área del frente |
 | Seguridad y eficiencia | Combina prevención, fracturación y extracción en un mismo proceso | Extracción de gas más segura y eficiente |
 
+**Imágenes** :
 
+**Enlace** : https://patents.google.com/patent/CN111441817B/en
 ---
 
 ## Comparación de las tres patentes
@@ -136,4 +138,4 @@
 
 **Alcance del análisis:** Los aportes se describen a partir de los resúmenes proporcionados. Estos no incluyen porcentajes de eficacia, costos, autonomía ni umbrales de alarma.
 
-**Enlace** : https://patents.google.com/patent/CN111441817B/en
+
