@@ -116,8 +116,8 @@
   <img src="https://patentimages.storage.googleapis.com/c8/be/95/1c9c479e51c91a/HDA0002436828270000021.png" width="250" alt="Figura 2" />
 </p>
 <p align="center">
-  <img src="https://patentimages.storage.googleapis.com/de/f3/24/2e3075cc46d897/HDA0002436828270000031.png" width="250" alt="Figura 3" />
-  <img src="https://patentimages.storage.googleapis.com/5c/59/b8/591709021e4d47/HDA0002436828270000041.png" width="250" alt="Figura 4" />
+  <img src="https://patentimages.storage.googleapis.com/de/f3/24/2e3075cc46d897/HDA0002436828270000031.png" height="300" alt="Figura 3" />
+  <img src="https://patentimages.storage.googleapis.com/5c/59/b8/591709021e4d47/HDA0002436828270000041.png" height="300" alt="Figura 4" />
 </p>
 
 ---
