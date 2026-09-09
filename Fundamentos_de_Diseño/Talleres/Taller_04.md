@@ -107,7 +107,6 @@
 | Cobertura uniforme del yacimiento | Distribuye estratégicamente las perforaciones y fracturas | Aprovechamiento más completo del área del frente |
 | Seguridad y eficiencia | Combina prevención, fracturación y extracción en un mismo proceso | Extracción de gas más segura y eficiente |
 
-**Imágenes** :
 
 **Imágenes** :
 
