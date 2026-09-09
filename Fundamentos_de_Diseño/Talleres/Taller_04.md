@@ -45,23 +45,24 @@
 **Fecha de concesión y publicación:** 10 de noviembre de 2020  
 **Clasificación:** E21F7/00
 
-### Resumen
+| Característica | Aporte | Valor generado |
+|---|---|---|
+| Fracturación hidráulica por chorro | Utiliza chorros de alta presión para fracturar el carbón en posiciones y direcciones determinadas | Aumento de la permeabilidad del carbón |
+| Efecto sinérgico con la presión minera | Aprovecha la presión generada por el avance del frente de explotación para ampliar las fracturas | Mayor despresurización y permeabilidad |
+| Perforación integrada de fracturación y extracción | Un mismo sondeo permite realizar fracturación y posteriormente extracción de gas | Reducción de operaciones y mayor eficiencia |
+| Fracturación agrupada y por etapas | Divide la fracturación en grupos y etapas según las condiciones de presión | Mayor precisión y control del proceso |
+| Perforaciones de preextracción | Coloca perforaciones cerca de las galerías de entrada y retorno para extraer gas continuamente | Extracción preventiva y reducción del riesgo |
+| Monitorización de la presión minera | Considera la distribución espacial y temporal de las presiones alrededor del frente | Optimización de la ubicación de las fracturas |
+| Control de posición y dirección | Las boquillas del sistema permiten determinar la posición y dirección de la fracturación | Fracturación más precisa y uniforme |
+| Radio de fracturación | Define la separación entre perforaciones según el alcance de las fracturas | Cobertura amplia y reducción de zonas sin fracturar |
+| PVC y tubería de protección | Utiliza tuberías para proteger las perforaciones y mantener los canales de flujo | Mayor continuidad y estabilidad de la extracción |
+| Extracción continua de gas | Mantiene la extracción mediante perforaciones de preextracción durante el proceso de fracturación | Mayor eficiencia de drenaje |
+| Sistema de cambio fracturación/extracción | Permite cambiar entre la operación de fracturación y la extracción mediante válvulas | Flexibilidad y rapidez operativa |
+| Alivio de presión | La fracturación y la presión minera reducen la resistencia y presión del carbón | Disminución del riesgo asociado al gas |
+| Mejora de permeabilidad | Las fracturas generan y amplían caminos para el flujo del gas | Incremento de la tasa de extracción |
+| Cobertura uniforme del yacimiento | Distribuye estratégicamente las perforaciones y fracturas | Aprovechamiento más completo del área del frente |
+| Seguridad y eficiencia | Combina prevención, fracturación y extracción en un mismo proceso | Extracción de gas más segura y eficiente |
 
-Esta patente describe un método para mejorar la extracción del gas contenido en mantos de carbón. Combina la fracturación mediante chorros hidráulicos con los efectos de la presión generada por la actividad minera. Esta combinación favorece la expansión de fracturas y aumenta la permeabilidad del carbón, facilitando el drenaje del gas mediante perforaciones.
-
-### Características principales
-
-- Ubicación de perforaciones según la distribución de la presión minera.
-- Fracturación hidráulica por grupos y etapas en retroceso.
-- Aprovechamiento conjunto de las fracturas y la presión minera.
-- Reducción de presión y aumento de la permeabilidad del carbón.
-- Integración de la fracturación y la extracción de gas mediante perforaciones.
-
-### Valor y aporte
-
-Para los trabajadores, busca reducir los riesgos asociados al gas acumulado y a la presión en el manto de carbón. Para la empresa minera, propone mejorar las condiciones de drenaje y facilitar una extracción de gas más uniforme.
-
-Su principio de intervención es mecánico e hidráulico. Sin embargo, esto no significa que todos los equipos auxiliares funcionen sin electricidad.
 
 ---
 
