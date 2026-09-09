@@ -40,6 +40,8 @@
 ## Patente Número 3: Enhanced Gas Drainage Method by Coal Seam Drilling Jet Fracturing and Mining Pressure Synergy
 **Código** : (ctxt = "mining" OR ctxt = "coal") AND ctxt = "gas" AND ctxt = "method" AND (ctxt = "drainage" OR ctxt = "extraction") AND ctxt = "hydraulic"
 
+**Enlace** : https://patents.google.com/patent/CN111441817B/en
+
 **Número de publicación:** CN111441817B  
 **Titular indicado:** China University of Mining and Technology, Beijing  
 **Fecha de concesión y publicación:** 10 de noviembre de 2020  
