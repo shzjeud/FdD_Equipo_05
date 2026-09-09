@@ -76,4 +76,5 @@ Su principio de intervención es mecánico e hidráulico. Sin embargo, esto no s
 | Aporte a la empresa | Coordinación de la seguridad y las operaciones | Vigilancia local complementaria | Mejora de las condiciones de drenaje |
 
 **Alcance del análisis:** Los aportes se describen a partir de los resúmenes proporcionados. Estos no incluyen porcentajes de eficacia, costos, autonomía ni umbrales de alarma.
+
 **Enlace** : https://patents.google.com/patent/CN111441817B/en
