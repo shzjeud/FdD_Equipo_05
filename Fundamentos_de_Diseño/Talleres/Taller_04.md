@@ -123,7 +123,7 @@
 
 **Imágenes** :
 
-**Enlace** : https://patents.google.com/patent/CN111441817B/en
+
 ---
 
 ## Comparación de las tres patentes
