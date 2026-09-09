@@ -16,7 +16,7 @@
 | Gestión de emergencias | Proporciona información durante situaciones de emergencia | Mejora de la respuesta y rescate |
 | Gestión integrada | Unifica diferentes fuentes de información | Mayor eficiencia en la gestión de la mina |
 
-## Patente Número 2
+## Patente Número 2: CN105781618A Coal mine safety integrated monitoring system based on Internet of Things
 **Código** : ctxt = "underground" AND ctxt = "mine" AND ctxt = "gas" AND ta = "sensor" AND cl = "E21F17/18"
 | Característica | Aporte | Valor generado |
 |---|---|---|
