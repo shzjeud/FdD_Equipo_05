@@ -1,1 +1,4 @@
-https://worldwide.espacenet.com/patent/search/family/083613711/publication/CN115219054A?q=pn%3DCN115219054A
+## Patente Número 1
+**Código** : ta = "mining" AND ab = "gas" AND ta = "underground" AND ctxt = "air" AND ctxt = "Oxygen" AND ntxt all "sensor"
+
+
