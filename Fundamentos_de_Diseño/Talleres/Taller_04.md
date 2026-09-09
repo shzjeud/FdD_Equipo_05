@@ -30,6 +30,18 @@
 **Código** : ctxt = "underground" AND ctxt = "mine" AND ctxt = "gas" AND ta = "sensor" AND cl = "E21F17/18"
 
 **Enlace** : https://worldwide.espacenet.com/patent/search/family/067333644/publication/CN209163870U?q=pn%3DCN209163870U
+
+### CN105781618A
+
+- **Titular:** HUAYANG COMMUNICATION TECH CO LTD
+- **Inventores:** SHENG WENYAN; KONG MINGKUN; LI YONG; DU HAIYANG
+- **Clasificación IPC:** E21F17/18
+- **Fecha de prioridad:** 15 de marzo de 2016
+- **Publicación:** 20 de julio de 2016
+- **Tecnología:** Sistema integrado de monitorización de seguridad basado en IoT.
+- **Aporte principal:** Integra sensores, posicionamiento, comunicación, vídeo y monitoreo ambiental para supervisar trabajadores y equipos.
+- **Valor:** Mejora la seguridad minera mediante detección temprana de riesgos, seguimiento en tiempo real y apoyo a la respuesta ante emergencias.
+
 | Característica | Aporte | Valor generado |
 |---|---|---|
 | Sensor de concentración de gas | Detecta la concentración de gases en el interior de la mina | Identificación de condiciones peligrosas |
