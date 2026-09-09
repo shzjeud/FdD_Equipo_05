@@ -35,3 +35,39 @@
 
 ## Patente Número 3
 **Código** : (ctxt = "mining" OR ctxt = "coal") AND ctxt = "gas" AND ctxt = "method" AND (ctxt = "drainage" OR ctxt = "extraction") AND ctxt = "hydraulic"
+**Número de publicación:** CN111441817B  
+**Titular indicado:** China University of Mining and Technology, Beijing  
+**Fecha de concesión y publicación:** 10 de noviembre de 2020  
+**Clasificación:** E21F7/00
+
+### Resumen
+
+Esta patente describe un método para mejorar la extracción del gas contenido en mantos de carbón. Combina la fracturación mediante chorros hidráulicos con los efectos de la presión generada por la actividad minera. Esta combinación favorece la expansión de fracturas y aumenta la permeabilidad del carbón, facilitando el drenaje del gas mediante perforaciones.
+
+### Características principales
+
+- Ubicación de perforaciones según la distribución de la presión minera.
+- Fracturación hidráulica por grupos y etapas en retroceso.
+- Aprovechamiento conjunto de las fracturas y la presión minera.
+- Reducción de presión y aumento de la permeabilidad del carbón.
+- Integración de la fracturación y la extracción de gas mediante perforaciones.
+
+### Valor y aporte
+
+Para los trabajadores, busca reducir los riesgos asociados al gas acumulado y a la presión en el manto de carbón. Para la empresa minera, propone mejorar las condiciones de drenaje y facilitar una extracción de gas más uniforme.
+
+Su principio de intervención es mecánico e hidráulico. Sin embargo, esto no significa que todos los equipos auxiliares funcionen sin electricidad.
+
+---
+
+## Comparación de las tres patentes
+
+| Aspecto | Patente 1 | Patente 2 | Patente 3 |
+|---|---|---|---|
+| Tipo de solución | Sistema integrado de monitoreo | Dispositivo portátil de alarma | Método de drenaje de gas |
+| Tecnología principal | IoT, sensores y comunicaciones | Sensor y alarma electrónica | Fracturación hidráulica |
+| Función | Supervisar e integrar información | Detectar gas y advertir | Facilitar la extracción del gas |
+| Aporte al trabajador | Seguimiento y apoyo ante emergencias | Alerta sonora y visual | Reducción del gas y la presión en el carbón |
+| Aporte a la empresa | Coordinación de la seguridad y las operaciones | Vigilancia local complementaria | Mejora de las condiciones de drenaje |
+
+**Alcance del análisis:** Los aportes se describen a partir de los resúmenes proporcionados. Estos no incluyen porcentajes de eficacia, costos, autonomía ni umbrales de alarma.
