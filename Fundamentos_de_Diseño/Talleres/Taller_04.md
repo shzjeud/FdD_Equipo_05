@@ -50,10 +50,14 @@
 
 **Enlace** : https://patents.google.com/patent/CN111441817B/en
 
-**Número de publicación:** CN111441817B  
-**Titular indicado:** China University of Mining and Technology, Beijing  
-**Fecha de concesión y publicación:** 10 de noviembre de 2020  
-**Clasificación:** E21F7/00
+- **Titular:** GUIZHOU YUNENG INVEST CO LTD
+- **Inventores:** HU HONGYIN; LEI YONG
+- **Clasificación IPC:** E21F17/18
+- **Fecha de prioridad:** 12 de octubre de 2018
+- **Publicación:** 26 de julio de 2019
+- **Tecnología:** Dispositivo automático de alarma de gas para minas de carbón.
+- **Aporte principal:** Detecta automáticamente la concentración de gas mediante un sensor y activa una alarma sonora y visual.
+- **Valor:** Permite advertir rápidamente al trabajador ante niveles peligrosos de gas y facilita la adopción de medidas de emergencia.
 
 | Característica | Aporte | Valor generado |
 |---|---|---|
