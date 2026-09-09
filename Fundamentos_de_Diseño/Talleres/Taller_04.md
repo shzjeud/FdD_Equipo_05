@@ -70,6 +70,13 @@
 | Advertencia de seguridad | Informa al trabajador sobre una posible situación de riesgo | Permite tomar medidas de emergencia |
 | Uso subterráneo | Está diseñado para la monitorización de gases en minas de carbón | Mayor seguridad en operaciones mineras |
 
+**Imágenes** :
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/253bb234-8c85-4977-a245-3520f01c77c6" width="250" alt="Patente, página 1" />
+  <img src="https://github.com/user-attachments/assets/0db3d317-af06-498e-8069-244813255f50" width="250" alt="Patente, página 2" />
+  <img src="https://github.com/user-attachments/assets/574d3608-b717-4eea-a6ef-8ba72762241e" width="250" alt="Patente, página 3" />
+</p>
 
 ## Patente Número 3: CN111441817B — Enhanced Gas Drainage Method by Coal Seam Drilling Jet Fracturing and Mining Pressure Synergy
 **Código** : (ctxt = "mining" OR ctxt = "coal") AND ctxt = "gas" AND ctxt = "method" AND (ctxt = "drainage" OR ctxt = "extraction") AND ctxt = "hydraulic"
