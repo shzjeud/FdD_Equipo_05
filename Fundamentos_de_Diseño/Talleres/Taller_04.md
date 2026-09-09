@@ -18,6 +18,9 @@
 | Gestión de emergencias | Proporciona información durante situaciones de emergencia | Mejora de la respuesta y rescate |
 | Gestión integrada | Unifica diferentes fuentes de información | Mayor eficiencia en la gestión de la mina |
 
+<img width="2479" height="3508" alt="image" src="https://github.com/user-attachments/assets/4227d81d-e294-4fc3-b1a3-5d9d76f7d489" />
+
+
 ## Patente Número 2: CN209163870U - Underground coal mine gas automatic alarm device
 **Código** : ctxt = "underground" AND ctxt = "mine" AND ctxt = "gas" AND ta = "sensor" AND cl = "E21F17/18"
 
