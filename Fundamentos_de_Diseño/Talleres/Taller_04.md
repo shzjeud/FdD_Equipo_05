@@ -37,7 +37,7 @@
 | Uso subterráneo | Está diseñado para la monitorización de gases en minas de carbón | Mayor seguridad en operaciones mineras |
 
 
-## Patente Número 3
+## Patente Número 3: Enhanced Gas Drainage Method by Coal Seam Drilling Jet Fracturing and Mining Pressure Synergy
 **Código** : (ctxt = "mining" OR ctxt = "coal") AND ctxt = "gas" AND ctxt = "method" AND (ctxt = "drainage" OR ctxt = "extraction") AND ctxt = "hydraulic"
 
 **Número de publicación:** CN111441817B  
