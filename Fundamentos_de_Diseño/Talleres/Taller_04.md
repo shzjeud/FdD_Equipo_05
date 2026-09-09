@@ -3,5 +3,5 @@
 ## Patente Número 2
 **Código** :
 
-## ## Patente Número 3
+## Patente Número 3
 **Código** :
