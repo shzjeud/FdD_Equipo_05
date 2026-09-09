@@ -3,6 +3,20 @@
 
 **Enlace** : https://worldwide.espacenet.com/patent/search/family/056393556/publication/CN105781618A?q=pn%3DCN105781618A
 
+### CN105781618A — Coal Mine Safety Integrated Monitoring System Based on Internet of Things
+
+### CN105781618A
+
+- **Titular:** HUAYANG COMMUNICATION TECH CO LTD
+- **Inventores:** SHENG WENYAN; KONG MINGKUN; LI YONG; DU HAIYANG
+- **Clasificación IPC:** E21F17/18
+- **Fecha de prioridad:** 15 de marzo de 2016
+- **Publicación:** 20 de julio de 2016
+- **Tecnología:** Sistema integrado de monitorización de seguridad basado en IoT.
+- **Aporte principal:** Integra sensores, posicionamiento, comunicación, vídeo y monitoreo ambiental para supervisar trabajadores y equipos.
+- **Valor:** Mejora la seguridad minera mediante detección temprana de riesgos, seguimiento en tiempo real y apoyo a la respuesta ante emergencias.
+
+
 | Característica | Aporte | Valor generado |
 |---|---|---|
 | Integración de sistemas | Integra monitoreo ambiental, equipos, trabajadores, voz, vídeo, tráfico y seguridad | Centralización de la información |
