@@ -31,13 +31,6 @@ Como estudiantes de ingeniería, este objetivo es el eje de nuestra formación. 
 
 ![image alt](https://github.com/shzjeud/FdD_Equipo_05/blob/273c053b20773f26b74f3c701b3ca76277854212/Recursos/Im%C3%A1genes/sdg_9_480x219.jpg)
 
-### 🌱 ODS 13: Acción por el Clima
-Nos interesa analizar cómo los factores ambientales y los riesgos relacionados con el clima pueden afectar a las actividades productivas y a las comunidades, especialmente aquellas que presentan una mayor vulnerabilidad.
-
-**Meta 13.1:** Fortalecer la resiliencia y la capacidad de adaptación a los riesgos relacionados con el clima y los desastres naturales.
-
-![image alt](https://github.com/shzjeud/FdD_Equipo_05/blob/317b4c5c54d70a2dd73ef13b7b7ca652cf475707/Recursos/Im%C3%A1genes/ODS13-480x219.jpg)
-
 ### ⚠️ Nuestra problemática a abordar
 
 Nuestro equipo abordará la seguridad y salud ocupacional de los trabajadores en actividades de minería subterránea en el Perú, delimitando nuestra problemática a la exposición a condiciones ambientales potencialmente peligrosas en el interior de las labores mineras, particularmente aquellas relacionadas con la calidad del aire, la presencia de gases y material particulado.
