@@ -8,7 +8,7 @@
 Somos el **Equipo 05** del curso **Fundamentos de Diseño 2026-2**, conformado por estudiantes de la carrera de Ingeniería Informática e Ingeniería Industrial.  
 Nuestro objetivo es aplicar la metodología de diseño para analizar problemáticas actuales y plantear, posteriormente, soluciones innovadoras que contribuyan al bienestar social, la seguridad, la sostenibilidad y el desarrollo tecnológico.  
 
-Hemos decidido enfocar nuestro trabajo en cuatro **Objetivos de Desarrollo Sostenible (ODS)** que consideramos estrechamente conectados entre sí: la salud y seguridad de las personas están relacionadas con las condiciones laborales, la infraestructura y la tecnología disponibles, aspectos que también pueden verse afectados por los factores ambientales y la crisis climática.
+Hemos decidido enfocar nuestro trabajo en tres **Objetivos de Desarrollo Sostenible (ODS)** que consideramos estrechamente conectados entre sí: la salud y seguridad de las personas están relacionadas con las condiciones laborales, la infraestructura y la tecnología disponibles.
 
 ### 🏥 ODS 3: Salud y Bienestar - ODS PRINCIPAL
 Buscamos aportar a la mejora de la salud y el bienestar de las personas. Nos interesan especialmente los aspectos relacionados con la prevención de riesgos y la protección de la salud, especialmente en contextos donde existen condiciones de trabajo de mayor riesgo.
@@ -60,15 +60,15 @@ Por ello, nos enfocaremos en comprender cómo las condiciones ambientales presen
 | Foto | Nombre | Rol | Intereses | Correo institucional |
 |------|--------|-----|-----------|----------------------|
 | <img src="/Recursos/Imágenes/Soriano.png" width="90"/> | Richard Aaron Soriano Cordova | Líder del equipo | Innovación social, sostenibilidad | richard.soriano@upch.pe |
-| <img src="/Recursos/Imágenes/Gonzalo.png" width="90"/> | Jose Gonzalo Saldaña Rodriguez | Responsable de investigación | Gestión ambiental, desarrollo comunitario | jose.saldana.r@upch.pe |
+| <img src="/Recursos/Imágenes/Gonzalo.png" width="90"/> | Jose Gonzalo Saldaña Rodriguez | Responsable de investigación | Gestión ambiental, desarrollo comunitario | jose.saldana@upch.pe |
 | <img src="/Recursos/Imágenes/Chuyma.jpeg" width="90"/> | Willian Chuyma Vargas | Diseñador/a | Diseño de prototipos, creatividad aplicada | willian.chuyma@upch.pe |
 | <img src="/Recursos/Imágenes/Jara.jpeg" width="90"/> | Amador Antonio Jara Castañeda | Encargado/a de documentación | Comunicación científica, redacción técnica | amador.jara@upch.pe |
-| <img src="/Recursos/Imágenes/Chávez Lozano José Fernando.jpeg" width="90"/> | Jose Fernando Chavez Lozano | Programador/a - Modelador/a | Programación, análisis de datos, simulación | jose.chavez.l@upch.pe | 
+| <img src="/Recursos/Imágenes/Chávez Lozano José Fernando.jpeg" width="90"/> | Jose Fernando Chavez Lozano | Programador/a - Modelador/a | Programación, análisis de datos, simulación | jose.chavez@upch.pe | 
 
 ---
 
 ## 📌 Resumen Final   
-Este README presenta quiénes somos, qué nos motiva y los ODS en los que queremos enfocar nuestro trabajo durante el curso. Para nosotros, la **Salud y bienestar (ODS 3)**, el **Trabajo Decente y Crecimiento Económico (ODS 8)**, la **Industria, innovación e infraestructura (ODS 9)** y la **Acción por el clima (ODS 13)** están estrechamente relacionados. Consideramos que, desde la ingeniería, podemos analizar problemáticas reales y, posteriormente, plantear soluciones que mejoren la calidad de vida de las personas y, al mismo tiempo, contribuyan al cuidado y sostenibilidad de nuestro entorno.
+Este README presenta quiénes somos, qué nos motiva y los ODS en los que queremos enfocar nuestro trabajo durante el curso. Para nosotros, la **Salud y bienestar (ODS 3)**, el **Trabajo Decente y Crecimiento Económico (ODS 8)** y la **Industria, innovación e infraestructura (ODS 9)** están estrechamente relacionados. Consideramos que, desde la ingeniería, podemos analizar problemáticas reales y, posteriormente, plantear soluciones que mejoren la calidad de vida de las personas y, al mismo tiempo, contribuyan al cuidado y sostenibilidad de nuestro entorno.
 
 ### 📚 Referencias bibliográficas (README)
 
