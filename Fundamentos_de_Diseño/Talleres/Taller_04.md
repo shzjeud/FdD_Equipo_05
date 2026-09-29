@@ -1,138 +1,148 @@
-[Lista_de_exigencias.pdf](https://github.com/user-attachments/files/32019581/Lista_de_exigencias.pdf)
+# Taller 4 — Búsqueda y revisión de patentes
 
-## Patente Número 1: CN105781618A - Coal mine safety integrated monitoring system based on Internet of Things
-**Código** : ctxt = "mining" AND ctxt = "underground" AND (ctxt = "purify air" OR ctxt = "oxygen" OR ctxt = "mitigate gases") AND (ntxt all "sensor" OR ntxt all "parameters") AND (ctxt all "staff safety" OR ctxt all "security" OR ctxt all "miner") AND (ctxt = "mechanic" OR ctxt = "IoT" OR ctxt = "portable" OR ctxt = "alert") AND (ctxt = "metano" OR ctxt = "carbon monoxide" OR ctxt = "carbon dioxide")
+## Alcance de la revisión
 
-**Enlace** : https://worldwide.espacenet.com/patent/search/family/056393556/publication/CN105781618A?q=pn%3DCN105781618A
+Se comparan tecnologías relacionadas con la **medición de gases, la alerta al trabajador y el seguimiento de personal en minas subterráneas**. La patente 3 de la versión inicial (CN111441817B) describía fracturación y drenaje del gas del manto de carbón; se reemplaza porque no aborda directamente la vigilancia del ambiente que respira el trabajador ni su alerta personal. Las tres soluciones seleccionadas cumplen funciones distintas y complementarias.
 
-- **Titular:** HUAYANG COMMUNICATION TECH CO LTD
-- **Inventores:** SHENG WENYAN; KONG MINGKUN; LI YONG; DU HAIYANG
-- **Clasificación IPC:** E21F17/18
-- **Fecha de prioridad:** 15 de marzo de 2016
-- **Publicación:** 20 de julio de 2016
-- **Tecnología:** Sistema integrado de monitorización de seguridad basado en IoT.
-- **Aporte principal:** Integra sensores, posicionamiento, comunicación, vídeo y monitoreo ambiental para supervisar trabajadores y equipos.
-- **Valor:** Mejora la seguridad minera mediante detección temprana de riesgos, seguimiento en tiempo real y apoyo a la respuesta ante emergencias.
+Los detalles técnicos siguientes proceden de las descripciones y reivindicaciones de las publicaciones citadas. Cuando una publicación no indica un dato cuantitativo, se señala expresamente; no se asume que el desempeño anunciado haya sido verificado en campo.
 
+**Procedencia del contenido:** las fichas de cada dispositivo resumen lo declarado en las patentes enlazadas. Las cadenas de búsqueda de las patentes 1 y 2 se conservaron del archivo entregado inicialmente; los diagramas, la selección de la patente 3 y las columnas «Relación con el proyecto» o «Aporte» son análisis elaborados para este taller y se identifican como tales. Las traducciones de las patentes chinas y sus datos de publicación se consultaron en Google Patents.
 
-| Característica | Aporte | Valor generado |
+## Patente 1: CN105781618A — Sistema integral de seguridad para minas de carbón basado en Internet de las Cosas
+
+**Búsqueda empleada en la versión inicial:** `ctxt = "mining" AND ctxt = "underground" AND (ctxt = "purify air" OR ctxt = "oxygen" OR ctxt = "mitigate gases") AND (ntxt all "sensor" OR ntxt all "parameters") AND (ctxt all "staff safety" OR ctxt all "security" OR ctxt all "miner") AND (ctxt = "mechanic" OR ctxt = "IoT" OR ctxt = "portable" OR ctxt = "alert") AND (ctxt = "metano" OR ctxt = "carbon monoxide" OR ctxt = "carbon dioxide")`
+
+**Fuente:** [CN105781618A, descripción y reivindicaciones 1 a 4](https://patents.google.com/patent/CN105781618A/en). **Titular:** Huayang Communication Technology Co. Ltd. **Inventores:** Sheng Wenyan, Kong Mingkun, Li Yong y Du Haiyang. **Clasificación IPC:** E21F17/18. **Prioridad:** 15 de marzo de 2016. **Publicación:** 20 de julio de 2016.
+
+### Funcionamiento y detalles técnicos
+
+| Elemento | Qué especifica la patente | Relación con el proyecto |
 |---|---|---|
-| Integración de sistemas | Integra monitoreo ambiental, equipos, trabajadores, voz, vídeo, tráfico y seguridad | Centralización de la información |
-| Internet de las Cosas (IoT) | Conecta sensores, equipos y trabajadores mediante nodos IoT | Gestión inteligente y conectividad |
-| Monitoreo en tiempo real | Recopila continuamente datos del entorno y de los equipos | Detección rápida de situaciones peligrosas |
-| Seguimiento y posicionamiento | Permite identificar y localizar trabajadores y equipos | Mayor control y trazabilidad |
-| Monitorización ambiental | Obtiene información de las condiciones del entorno subterráneo | Prevención de riesgos |
-| Monitorización de equipos | Recopila información sobre el estado de los equipos | Mantenimiento y control operacional |
-| Comunicación por voz | Facilita la comunicación entre trabajadores y centro de control | Mejor coordinación |
-| Monitorización por vídeo | Permite supervisar visualmente las operaciones | Mayor vigilancia y seguridad |
-| Alerta temprana | Detecta situaciones potencialmente peligrosas | Prevención de accidentes |
-| Apoyo a la toma de decisiones | Utiliza los datos recopilados para apoyar decisiones de seguridad | Respuestas más rápidas y fundamentadas |
-| Gestión de emergencias | Proporciona información durante situaciones de emergencia | Mejora de la respuesta y rescate |
-| Gestión integrada | Unifica diferentes fuentes de información | Mayor eficiencia en la gestión de la mina |
+| Vigilancia ambiental | Sensores en las galerías para **metano (CH₄), monóxido de carbono (CO), dióxido de carbono (CO₂) y concentración de oxígeno (O₂)**. También menciona presión del techo, nivel de agua, incendio, velocidad y presión del aire, temperatura, humedad y humo. | Identifica variables concretas del ambiente subterráneo que pueden alimentar avisos de riesgo. |
+| Red de comunicación | Nodos fijos en galerías, nodos de monitoreo ambiental, nodos de equipos y nodos móviles llevados por trabajadores o vehículos. La patente contempla RFID, ZigBee o red de fibra óptica para comunicar los nodos. | Permite reunir mediciones distribuidas en un centro de supervisión. |
+| Posicionamiento | Cada objeto móvil lleva un nodo con identificador único. Los nodos móviles se comunican con **nodos de referencia de posición conocida** instalados a lo largo de la galería; la conectividad o la información de distancia/señal permite estimar la ubicación y enviar el resultado a superficie. | Ayuda a localizar trabajadores, seguir recorridos y conocer su distribución durante una emergencia. **No se trata de posicionamiento por GPS subterráneo.** |
+| Respuesta | El sistema de supervisión puede emitir alertas; la descripción contempla desconectar la energía de un área y activar ventilación cuando se detectan condiciones anómalas. | Conecta la detección con acciones de seguridad. |
 
-**Imágenes** :
+**Límite de lo divulgado:** el documento enumera los sensores y explica la arquitectura de localización, pero no fija en las reivindicaciones consultadas rangos de medición, umbrales numéricos, precisión de posición ni autonomía de los nodos.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4227d81d-e294-4fc3-b1a3-5d9d76f7d489" width="250" alt="Patente, página 1" />
-  <img src="https://github.com/user-attachments/assets/02f9c38b-9025-449b-8a45-7cf7b4e63f74" width="250" alt="Patente, página 2" />
-  <img src="https://github.com/user-attachments/assets/76ced622-4289-4d04-b976-712ec4bfba12" width="250" alt="Patente, página 3" />
-</p>
+### Traducción de las figuras y de sus partes
 
+La [publicación original](https://patents.google.com/patent/CN105781618A/en) denomina sus figuras así: **figura 1**, estructura de la red IoT; **figura 2**, subsistemas del monitoreo integral; **figura 3**, sistema de información geográfica de la mina; **figura 4**, comunicación por voz. El siguiente esquema explica en español la relación funcional representada; es una **síntesis de la descripción**, no una reproducción literal del dibujo de patente.
 
+```mermaid
+flowchart LR
+    A[Galería: sensores de CH₄, CO, CO₂, O₂ y otras variables] --> C[Nodos de comunicación de la mina]
+    B[Trabajador o equipo: nodo móvil con identificador único] --> C
+    D[Nodos fijos de posición conocida] --> C
+    C --> E[Centro de supervisión y mapa de la mina]
+    E --> F[Alertas, seguimiento y apoyo al rescate]
+```
 
-## Patente Número 2: CN209163870U - Underground coal mine gas automatic alarm device
-**Código** : ctxt = "underground" AND ctxt = "mine" AND ctxt = "gas" AND ta = "sensor" AND cl = "E21F17/18"
+**Lectura de la figura 3:** el mapa reúne la ubicación de galerías, equipos, sensores y personal. **Lectura de la figura 4:** el nodo llevado por el trabajador incorpora micrófono y receptor para establecer comunicación de voz. [Descripción de las figuras y del posicionamiento](https://patents.google.com/patent/CN105781618A/en).
 
-**Enlace** : https://worldwide.espacenet.com/patent/search/family/067333644/publication/CN209163870U?q=pn%3DCN209163870U
+## Patente 2: CN209163870U — Dispositivo automático de alarma de gas de mina para minas de carbón
 
-- **Titular:** GUIZHOU YUNENG INVEST CO LTD
-- **Inventores:** HU HONGYIN; LEI YONG
-- **Clasificación IPC:** E21F17/18
-- **Fecha de prioridad:** 12 de octubre de 2018
-- **Publicación:** 26 de julio de 2019
-- **Tecnología:** Dispositivo automático de alarma de gas para minas de carbón.
-- **Aporte principal:** Detecta automáticamente la concentración de gas mediante un sensor y activa una alarma sonora y visual.
-- **Valor:** Permite advertir rápidamente al trabajador ante niveles peligrosos de gas y facilita la adopción de medidas de emergencia.
+**Búsqueda empleada en la versión inicial:** `ctxt = "underground" AND ctxt = "mine" AND ctxt = "gas" AND ta = "sensor" AND cl = "E21F17/18"`
 
-| Característica | Aporte | Valor generado |
+**Fuente:** [CN209163870U, descripción, figuras y reivindicaciones](https://patents.google.com/patent/CN209163870U/en). **Titular:** Guizhou Yuneng Investment Co. Ltd. **Inventores:** Hu Hongyin y Lei Yong. **Clasificación IPC:** E21F17/18. **Prioridad:** 12 de octubre de 2018. **Publicación:** 26 de julio de 2019.
+
+### Funcionamiento y detalles técnicos
+
+La publicación usa el término chino **瓦斯 (*gas de mina*)** para lo que detecta el sensor. La traducción inglesa de los antecedentes lo relaciona con **metano (CH₄)**, pero las reivindicaciones no especifican la composición del gas ni la selectividad del sensor. El dispositivo tampoco declara medir CO, CO₂ u O₂. Un ventilador aspira aire de la mina por una entrada protegida con malla, lo hace pasar frente al sensor de concentración y lo expulsa por un orificio inferior. El controlador compara la lectura con un valor de alarma configurado mediante el botón y activa una señal **sonora y luminosa** cuando se alcanza ese valor. [Texto original y traducción de la patente](https://patents.google.com/patent/CN209163870U/zh).
+
+| Elemento | Dato concreto publicado | Aporte |
 |---|---|---|
-| Sensor de concentración de gas | Detecta la concentración de gases en el interior de la mina | Identificación de condiciones peligrosas |
-| Alarma automática | Activa una alerta cuando se detecta una concentración peligrosa de gas | Prevención de accidentes |
-| Alarma sonora y visual | Emite señales acústicas y luminosas para advertir al usuario | Aviso rápido y perceptible |
-| Ventilador | Favorece la entrada y circulación del aire hacia el sistema de detección | Mejora de la detección del gas |
-| Filtro de entrada | Protege la entrada de gas mediante una malla o filtro | Mayor protección del dispositivo |
-| Controlador | Gestiona la información del sensor y activa las alarmas | Automatización del sistema |
-| Diseño compacto | Utiliza una estructura pequeña y fácil de transportar | Portabilidad y facilidad de uso |
-| Alimentación por batería | Permite utilizar el dispositivo de forma independiente | Funcionamiento en zonas subterráneas |
-| Entrada y salida de gas | Facilita el flujo de aire a través del dispositivo | Detección más efectiva |
-| Advertencia de seguridad | Informa al trabajador sobre una posible situación de riesgo | Permite tomar medidas de emergencia |
-| Uso subterráneo | Está diseñado para la monitorización de gases en minas de carbón | Mayor seguridad en operaciones mineras |
+| Alimentación | Compartimento de batería con tapa desmontable; alimenta controlador, sensor, ventilador y alarma. | Puede funcionar sin un cable fijo durante el uso. |
+| Transporte | Carcasa que reúne los componentes y **presilla de fijación** en el exterior. La descripción indica que se pasa un cinturón o cuerda por la presilla para sujetarlo a la cintura. | Explica físicamente la portabilidad, más allá de calificarlo como “pequeño”. |
+| Muestreo | Entrada lateral con malla contra polvo, ventilador frente a la entrada, sensor frente al ventilador y salida inferior. | Dirige una corriente de aire hacia el sensor. |
+| Advertencia | Controlador y alarma acústica y óptica conectados al sensor. | Avisa localmente al portador cuando se supera el valor configurado. |
 
-**Imágenes** :
+**Límite de lo divulgado:** no se proporcionan dimensiones, masa, duración de la batería, rango del sensor ni valor numérico del umbral. Por ello no es posible cuantificar su comodidad de transporte ni comparar su autonomía con la de otros equipos.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/253bb234-8c85-4977-a245-3520f01c77c6" width="250" alt="Patente, página 1" />
-  <img src="https://github.com/user-attachments/assets/0db3d317-af06-498e-8069-244813255f50" width="250" alt="Patente, página 2" />
-  <img src="https://github.com/user-attachments/assets/574d3608-b717-4eea-a6ef-8ba72762241e" width="250" alt="Patente, página 3" />
-</p>
+### Traducción de las partes numeradas de las figuras 1 a 5
 
-## Patente Número 3: CN111441817B — Enhanced Gas Drainage Method by Coal Seam Drilling Jet Fracturing and Mining Pressure Synergy
-**Código** : (ctxt = "mining" OR ctxt = "coal") AND ctxt = "gas" AND ctxt = "method" AND (ctxt = "drainage" OR ctxt = "extraction") AND ctxt = "hydraulic"
+Las [figuras originales de CN209163870U](https://patents.google.com/patent/CN209163870U/en) muestran vistas frontal, izquierda, derecha, superior e inferior del mismo dispositivo. La numeración indicada en la descripción significa:
 
-**Enlace** : https://patents.google.com/patent/CN111441817B/en
-
-- **Titular:** China University of Mining and Technology, Beijing (CUMTB)
-- **Inventores:** LI NANYAN; MAN YUE; FANG LIULIN; ZHAO HUI
-- **Clasificación IPC:** E21F7/00
-- **Fecha de prioridad:** 02 de abril de 2020
-- **Publicación:** 10 de noviembre de 2020
-- **Estado:** Activa
-- **Tecnología:** Extracción mejorada de gas mediante fracturación hidráulica por chorro y presión minera.
-- **Aporte principal:** Combina la fracturación del carbón con la presión generada por la explotación minera para aumentar las fracturas y la permeabilidad del carbón.
-- **Valor:** Mejora la eficiencia y seguridad de la extracción de gas, reduce la presión del carbón y disminuye los riesgos asociados al gas en la mina.
-
-| Característica | Aporte | Valor generado |
+| N.º | Parte en español | Función |
 |---|---|---|
-| Fracturación hidráulica por chorro | Utiliza chorros de alta presión para fracturar el carbón en posiciones y direcciones determinadas | Aumento de la permeabilidad del carbón |
-| Efecto sinérgico con la presión minera | Aprovecha la presión generada por el avance del frente de explotación para ampliar las fracturas | Mayor despresurización y permeabilidad |
-| Perforación integrada de fracturación y extracción | Un mismo sondeo permite realizar fracturación y posteriormente extracción de gas | Reducción de operaciones y mayor eficiencia |
-| Fracturación agrupada y por etapas | Divide la fracturación en grupos y etapas según las condiciones de presión | Mayor precisión y control del proceso |
-| Perforaciones de preextracción | Coloca perforaciones cerca de las galerías de entrada y retorno para extraer gas continuamente | Extracción preventiva y reducción del riesgo |
-| Monitorización de la presión minera | Considera la distribución espacial y temporal de las presiones alrededor del frente | Optimización de la ubicación de las fracturas |
-| Control de posición y dirección | Las boquillas del sistema permiten determinar la posición y dirección de la fracturación | Fracturación más precisa y uniforme |
-| Radio de fracturación | Define la separación entre perforaciones según el alcance de las fracturas | Cobertura amplia y reducción de zonas sin fracturar |
-| PVC y tubería de protección | Utiliza tuberías para proteger las perforaciones y mantener los canales de flujo | Mayor continuidad y estabilidad de la extracción |
-| Extracción continua de gas | Mantiene la extracción mediante perforaciones de preextracción durante el proceso de fracturación | Mayor eficiencia de drenaje |
-| Sistema de cambio fracturación/extracción | Permite cambiar entre la operación de fracturación y la extracción mediante válvulas | Flexibilidad y rapidez operativa |
-| Alivio de presión | La fracturación y la presión minera reducen la resistencia y presión del carbón | Disminución del riesgo asociado al gas |
-| Mejora de permeabilidad | Las fracturas generan y amplían caminos para el flujo del gas | Incremento de la tasa de extracción |
-| Cobertura uniforme del yacimiento | Distribuye estratégicamente las perforaciones y fracturas | Aprovechamiento más completo del área del frente |
-| Seguridad y eficiencia | Combina prevención, fracturación y extracción en un mismo proceso | Extracción de gas más segura y eficiente |
+| 1 | Carcasa de plástico transparente | Aloja los componentes. |
+| 2 | Compartimento de batería | Contiene la fuente de energía. |
+| 3 | Controlador | Procesa la lectura y ordena la alarma. |
+| 4 | Sensor de concentración de gas de mina | Mide el gas de mina que llega al interior; la patente no especifica su selectividad química. |
+| 5 | Ventilador | Impulsa la muestra de aire. |
+| 6 | Alarma acústica y óptica | Emite sonido y luz de advertencia. |
+| 7 | Entrada de aire | Permite que entre la muestra. |
+| 8 | Salida de aire | Deja salir la muestra por la parte inferior. |
+| 9 | Botón de operación | Enciende y permite configurar el controlador. |
+| 10 | Malla filtrante | Retiene partículas en la entrada. |
+| 11 | Tapa del compartimento de batería | Permite cambiar la batería. |
+| 12 | Presilla de fijación | Permite pasar un cinturón o cuerda para sujetar el equipo a la cintura. |
 
+```mermaid
+flowchart LR
+    A[Aire de la mina] --> B[7 Entrada + 10 malla]
+    B --> C[5 Ventilador]
+    C --> D[4 Sensor de gas de mina]
+    D --> E[3 Controlador]
+    E --> F[6 Alarma de luz y sonido]
+    C --> G[8 Salida inferior]
+    H[2 Batería] --> E
+```
 
-**Imágenes** :
+## Patente 3: CN203489910U — Detector portátil inalámbrico de varios parámetros y apoyo a búsqueda y rescate
 
-<p align="center">
-  <img src="https://patentimages.storage.googleapis.com/cc/a3/96/7df2834efe7543/HDA0002436828270000011.png" width="250" alt="Figura 1" />
-  <img src="https://patentimages.storage.googleapis.com/c8/be/95/1c9c479e51c91a/HDA0002436828270000021.png" width="250" alt="Figura 2" />
-</p>
-<p align="center">
-  <img src="https://patentimages.storage.googleapis.com/de/f3/24/2e3075cc46d897/HDA0002436828270000031.png" height="300" alt="Figura 3" />
-  <img src="https://patentimages.storage.googleapis.com/5c/59/b8/591709021e4d47/HDA0002436828270000041.png" height="300" alt="Figura 4" />
-</p>
+**Fuente:** [CN203489910U, descripción, figuras y reivindicaciones](https://patents.google.com/patent/CN203489910U/en). **Titular:** Jiangxi Huihong Information Technology Co. Ltd. **Inventor:** Liang Zirong. **Prioridad:** 19 de agosto de 2013. **Publicación:** 19 de marzo de 2014.
 
----
+### Por qué es relevante y cómo funciona
 
-## Comparación de las tres patentes
+Esta publicación reúne en un aparato llevado por el trabajador la **detección de metano (CH₄), monóxido de carbono (CO) y temperatura**, una alarma local y la transmisión inalámbrica de lecturas e identificadores hacia los sistemas de vigilancia ambiental y ubicación de personal de la mina. Por eso se relaciona directamente con la exposición del trabajador a gases y con la respuesta ante incidentes. **No describe purificación del aire ni suministro de oxígeno.** [Resumen y reivindicaciones](https://patents.google.com/patent/CN203489910U/en).
 
-| Aspecto | Patente 1 | Patente 2 | Patente 3 |
+| Elemento | Dato técnico publicado | Aporte |
+|---|---|---|
+| Cabezal de detección | Elementos sensores separados para CH₄, CO y temperatura, integrados en una cámara de muestra multiparámetro. Sus señales pasan por amplificación y conversión analógico-digital al procesador. | Proporciona tres variables concretas en un solo instrumento. |
+| Procesamiento y aviso | Procesador, pantalla LCD, almacenamiento y alarma sonora y luminosa. | Presenta las lecturas al portador y advierte condiciones configuradas como alarma. |
+| Comunicación | Circuito de radiofrecuencia/RFID que recibe identificadores de tarjetas personales y transmite lecturas e identificadores a equipos de recolección o lectores de la mina. | Vincula datos ambientales y datos de personal para vigilancia y búsqueda. |
+| Construcción y energía | Carcasa moldeada en PVC descrita con pared de **1,5 mm**, unión de tapas con junta tórica, batería recargable y autonomía declarada de **hasta 12 horas de funcionamiento continuo**. | Da sustento técnico a la portabilidad anunciada; la autonomía es la declarada por la patente. |
+
+**Límite de lo divulgado:** esta publicación no mide O₂ ni CO₂ y no demuestra que pueda sustituir los equipos de protección respiratoria. La “ubicación” depende de la infraestructura de lectura y comunicación de la mina; el aparato no declara coordenadas GPS.
+
+### Traducción de las figuras y sus componentes
+
+La **figura 1** de la [publicación original](https://patents.google.com/patent/CN203489910U/en) presenta el exterior del instrumento. Sus números corresponden a:
+
+| N.º | Parte en español | Función |
+|---|---|---|
+| 1 | Ventana de alarma sonora | Deja percibir el aviso acústico. |
+| 2 | Ventana de luz de alarma | Muestra el aviso visual. |
+| 3 | Cámara de aire multiparámetro | Aloja la zona donde los sensores entran en contacto con la muestra. |
+| 4 | Pantalla LCD | Muestra lecturas, datos de tarjeta y estado de batería. |
+| 5 | Puerto de carga | Permite recargar el instrumento. |
+| 6 | Cuatro botones multifunción | Encendido, consulta y configuración. |
+| 7 | Panel de PVC | Parte frontal de protección y soporte. |
+
+La **figura 2** es un diagrama del circuito. Se interpreta de izquierda a derecha como sensores de CH₄/CO/temperatura → acondicionamiento y conversión de señal → procesador → pantalla, memoria, alarma y radio. La batería alimenta estos bloques mediante circuitos de carga y regulación.
+
+```mermaid
+flowchart LR
+    A[3 Cámara: sensores de CH₄, CO y temperatura] --> B[Amplificación y conversión A/D]
+    B --> C[Procesador]
+    C --> D[4 Pantalla LCD]
+    C --> E[1 y 2 Alarmas sonora y luminosa]
+    C --> F[Memoria y radio RFID]
+    F --> G[Sistema ambiental y de personal de la mina]
+    H[5 Puerto de carga + batería] --> C
+```
+
+## Comparación para el proyecto
+
+| Aspecto | CN105781618A | CN209163870U | CN203489910U |
 |---|---|---|---|
-| Tipo de solución | Sistema integrado de monitoreo | Dispositivo portátil de alarma | Método de drenaje de gas |
-| Tecnología principal | IoT, sensores y comunicaciones | Sensor y alarma electrónica | Fracturación hidráulica |
-| Función | Supervisar e integrar información | Detectar gas y advertir | Facilitar la extracción del gas |
-| Aporte al trabajador | Seguimiento y apoyo ante emergencias | Alerta sonora y visual | Reducción del gas y la presión en el carbón |
-| Aporte a la empresa | Coordinación de la seguridad y las operaciones | Vigilancia local complementaria | Mejora de las condiciones de drenaje |
+| Escala | Red de toda la mina | Alarma local llevada a la cintura | Instrumento personal conectado a sistemas de la mina |
+| Variables ambientales especificadas | CH₄, CO, CO₂, O₂, humo, temperatura, humedad y otras | Gas de mina (瓦斯); composición y selectividad del sensor no especificadas | CH₄, CO y temperatura |
+| Localización de personas | Nodos móviles frente a nodos fijos de referencia | No descrita | Identificadores y comunicación con infraestructura de ubicación |
+| Aviso | Alertas y acciones desde la supervisión | Sonido y luz en el dispositivo | Sonido y luz en el instrumento |
+| Dato útil para diseño | Selección de variables y arquitectura de red | Ruta de muestra, fijación y alarma personal | Integración de varios sensores y transmisión en un aparato portable |
+| Límite principal | No cuantifica precisión de localización ni umbrales | No especifica selectividad química del sensor ni cuantifica peso/autonomía | No mide O₂/CO₂ ni purifica aire |
 
-**Alcance del análisis:** Los aportes se describen a partir de los resúmenes proporcionados. Estos no incluyen porcentajes de eficacia, costos, autonomía ni umbrales de alarma.
-
+**Conclusión:** las tres patentes informan decisiones de diseño sobre **qué medir, cómo avisar y cómo relacionar la lectura con el trabajador y su ubicación**. Ninguna acredita por sí sola la eficacia de una solución de purificación o respiración; esa función requeriría una búsqueda de patentes específica.
 
