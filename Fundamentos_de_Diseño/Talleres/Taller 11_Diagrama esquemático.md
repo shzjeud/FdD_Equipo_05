@@ -14,3 +14,8 @@ MINEGUARD Planos Mecanicos:
 MINEGUARD Esquematico:
 
 [MINEGUARD_Esquematico_REV_B.pdf](https://github.com/user-attachments/files/34056738/MINEGUARD_Esquematico_REV_B.pdf)
+
+Presentación PDF: 
+
+[MINEGUARD_Entregable3_esquematico_y_modelo3D.pdf](https://github.com/user-attachments/files/34057496/MINEGUARD_Entregable3_esquematico_y_modelo3D.pdf)
+
