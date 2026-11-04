@@ -1,8 +1,4 @@
-
 %PDF-1.4
-%�߬�
-3 0 obj
-<</Type /Page%PDF-1.4
 %�߬�
 3 0 obj
 <</Type /Page
@@ -2718,7 +2714,10 @@ trailer
 startxref
 39004
 %%EOF
-
+[%PDF-1.4
+%�߬�
+3 0 obj
+<</Type /Page
 /Parent 1 0 R
 /Resources 2 0 R
 /MediaBox [0 0 1136.88 762.48]
@@ -12532,3 +12531,4 @@ trailer
 startxref
 147316
 %%EOF
+]
