@@ -82,38 +82,42 @@ Pacto Mundial de Naciones Unidas. (s. f.). ODS: Objetivos de Desarrollo Sostenib
 
 ### 📚 Referencias bibliográficas (PROYECTO)
 
-Aquino-Canchari CR, Huamán-Castillón KM, Jiménez-Mozo F, Aquino-Canchari CR, Huamán-Castillón KM, Jiménez-Mozo F. Enfermedades ocupacionales en minería en el Perú, 2011-2020. Revista de la Asociación Española de Especialistas en Medicina del Trabajo. 2022;31(3):275-82. doi:https://scielo.isciii.es/scielo.php?script=sci_abstract&pid=S3020-11602022000300004&lng=es&nrm=iso&tlng=es
-
-Paluchamy B, Mishra DP, Panigrahi DC. Airborne respirable dust in fully mechanised underground metalliferous mines – Generation, health impacts and control measures for cleaner production. Journal of Cleaner Production. 10 de mayo de 2021;296:126524. doi:10.1016/j.jclepro.2021.126524
-
-Cárdenas Gonzáles D. Mejoramiento del sistema de ventilación de minas para suministrar aire limpio a las labores subterráneas. Universidad Nacional de Ingeniería [Internet]. 2020 [citado 2 de septiembre de 2026]. Disponible en: https://repositorio.uni.edu.pe/handle/20.500.14076/21710
-
-Rodriguez IQ, Medina ECA. EMISIÓN GAS DE ESTRATO Y EFECTOS SOBRE LA SALUD DE TRABAJADORES EN OPERACIONES MINERAS-MINA CATALINA HUANCA, 2023. Investigación. 30 de junio de 2024;31(1):3-3. doi:10.51440/unsch.revistainvestigacion.31.1.2024.699
-
-Reglamento de Seguridad y Salud Ocupacional en Minería. Ed. 2026 [Internet]. [citado 2 de septiembre de 2026]. Disponible en: https://www.gob.pe/institucion/minem/informes-publicaciones/5631689-reglamento-de-seguridad-y-salud-ocupacional-en-mineria-ed-2026
-
-Naik AS, Reddy SK, Mandela GR. A Systematic Review on Implementation of Internet-of-Things-Based System in Underground Mines to Monitor Environmental Parameters. J Inst Eng India Ser D. 1 de agosto de 2024;105(2):1273-89. doi:10.1007/s40033-023-00541-3
-
-Vigilante AQSTM - air quality station | Maestro Digital Mine [Internet]. [citado 2 de septiembre de 2026]. Disponible en: https://www.maestrodigitalmine.com/products/vigilante-aqs-air-quality-station
-
-Supporting underground health and safety in real time – Trolex [Internet]. [citado 2 de septiembre de 2026]. Disponible en: https://trolex.com/supporting-underground-health-and-safety-in-real-time/
-
-Mining & Tunneling - Monitoring & Ventilation Control Equipment | CONSPEC Controls Inc [Internet]. 21 de junio de 2021 [citado 2 de septiembre de 2026]. Disponible en: https://conspec-controls.com/industries/mining-tunneling/
-
-王作舟, 杨林雪, 于涛. Underground coal mine safety electronic monitoring device [Internet]. CN220667645U, 2024 [citado 2 de septiembre de 2026]. Disponible en: https://patents.google.com/patent/CN220667645U/en
-
-Albinger RE, Lawler CT, Michaud T, Berube M, Dunkin B, Hakins DW, et al. Gas Monitor, System and Method [Internet]. US20150145685A1, 2015 [citado 2 de septiembre de 2026]. Disponible en: https://patents.google.com/patent/US20150145685A1/en
-
-李仁生, 魏东, 鄢彩华. Open-pit mining worker safety monitoring method and system based on the Internet of Things [Internet]. CN119091580A, 2024 [citado 2 de septiembre de 2026]. Disponible en: https://patents.google.com/patent/CN119091580A/en
-
-Zhang H, Li B, Karimi M, Saydam S, Hassan M. Recent Advancements in IoT Implementation for Environmental, Safety, and Production Monitoring in Underground Mines. IEEE Internet of Things Journal. agosto de 2023;10(16):14507-26. doi:10.1109/JIOT.2023.3267828
-
-Hassan HZ ul, Wang A, Mohi-ud-din G. A wireless sensor network for coal mine safety powered by modified localization algorithm. Heliyon. 15 de enero de 2025;11(1). doi:10.1016/j.heliyon.2024.e41262
-
-Zhang Y, Yang W, Han D, Kim YI. An Integrated Environment Monitoring System for Underground Coal Mines—Wireless Sensor Network Subsystem with Multi-Parameter Monitoring. Sensors. julio de 2014;14(7):13149-70. doi:10.3390/s140713149
-
-Implementación de un sistema de monitoreo ambiental con sensores inteligentes para mejorar la seguridad en pequeña minería subterránea, Trujillo 2024 [Internet]. [citado 2 de septiembre de 2026]. Disponible en: https://repositorio.ucsm.edu.pe/items/cbbd5c57-d136-44a1-b833-32aa96c7719c
-
-Useche Galindo LJ. Sistema automatizado de supervisión y control de gases contaminantes en minas subterráneas [Internet]. 10 de febrero de 2026 [citado 2 de septiembre de 2026]. Disponible en: http://hdl.handle.net/11349/100323
-
-Pozo Bulnes CA, Ari Uturonco JAN. Modelamiento y diagnóstico del circuito actual de ventilación en una mina subterránea y propuesta de mejora [Internet]. 2023 [citado 2 de septiembre de 2026]. Disponible en: http://hdl.handle.net/20.500.12404/25925
+1. Aquino-Canchari CR, Huamán-Castillón KM, Jiménez-Mozo F. Enfermedades ocupacionales en minería en el Perú, 2011-2020. Revista de la Asociación Española de Especialistas en Medicina del Trabajo [Internet]. 2022 [citado 2 de septiembre de 2026];31(3):275-82. Disponible en: https://scielo.isciii.es/pdf/medtra/v31n3/1132-6255-medtra-31-03-275.pdf
+2.	Paluchamy B, Mishra DP, Panigrahi DC. Airborne respirable dust in fully mechanised underground metalliferous mines – Generation, health impacts and control measures for cleaner production. Journal of Cleaner Production. 10 de mayo de 2021;296:126524. doi:10.1016/j.jclepro.2021.126524
+3.	Cárdenas Gonzáles D. Mejoramiento del sistema de ventilación de minas para suministrar aire limpio a las labores subterráneas [Tesis de grado] [Internet]. Universidad Nacional de Ingeniería; 2020 [citado 2 de septiembre de 2026]. Disponible en: https://repositorio.uni.edu.pe/handle/20.500.14076/21710
+4.	Quispe Rodriguez I, Alarcón Medina EC. EMISIÓN GAS DE ESTRATO Y EFECTOS SOBRE LA SALUD DE TRABAJADORES EN OPERACIONES MINERAS-MINA CATALINA HUANCA, 2023. Investigación. 30 de junio de 2024;31(1):3. doi:10.51440/unsch.revista investigación.31.1.2024.699
+5.	Ministerio de Energía y Minas. Reglamento de Seguridad y Salud Ocupacional en Minería. Ed. 2026 [Internet]. [citado 2 de septiembre de 2026]. Disponible en: https://www.gob.pe/institucion/minem/informes-publicaciones/5631689-reglamento-de-seguridad-y-salud-ocupacional-en-mineria-ed-2026
+6.	Naik AS, Reddy SK, Mandela GR. A Systematic Review on Implementation of Internet-of-Things-Based System in Underground Mines to Monitor Environmental Parameters. J Inst Eng India Ser D. 1 de agosto de 2024;105(2):1273-89. doi:10.1007/s40033-023-00541-3
+7.	Ministerio de Energía y Minas. Guía para la implementación de Comités de Monitoreo y Vigilancia Ambiental Participativo [Internet]. Ministerio de Energía y Minas; 2012 [citado 6 de octubre de 2026]. Disponible en: https://www.gob.pe/institucion/minem/informes-publicaciones/4721061-guia-para-la-implementacion-de-comites-de-monitoreo-y-vigilancia-ambiental-participativo
+8.	Damonte G, Godfrid J, Lopez AP. Adopting Technology and Community Empowerment: Environmental Community-based Monitoring in Peru and Chile. Human Ecology. 27 de mayo de 2026;54(3):39. doi:10.1007/s10745-026-00697-y
+9.	Organismo de Evaluación y Fiscalización Ambiental. OEFA implementa dos nuevas estaciones que vigilarán la calidad del aire en Espinar [Internet]. Lima: OEFA; 16 de julio de 2026 [citado 11 de noviembre de 2026]. Disponible en: https://www.gob.pe/institucion/oefa/noticias/1419936-oefa-implementa-dos-nuevas-estaciones-que-vigilaran-la-calidad-del-aire-en-espinar
+10.	Organismo de Evaluación y Fiscalización Ambiental. OEFA contará con 43 estaciones de monitoreo de calidad de aire para fortalecer vigilancia ambiental [Internet]. Lima: OEFA; 3 de octubre de 2024 [citado 11 de noviembre de 2026]. Disponible en: https://www.gob.pe/institucion/oefa/noticias/1033573-oefa-contara-con-43-estaciones-de-monitoreo-de-calidad-de-aire-para-fortalecer-vigilancia-ambiental
+11.	Bagkis E, Hassani A, Schneider P, DeSouza P, Shetty S, Kassandros T, et al. Evolving trends in application of low-cost air quality sensor networks: challenges and future directions. npj Clim Atmos Sci. 2 de octubre de 2025;8(1):335. doi:10.1038/s41612-025-01216-4
+12.	Maestro Digital Mine. Vigilante AQSTM - air quality station | Maestro Digital Mine [Internet]. [citado 2 de septiembre de 2026]. Disponible en: https://www.maestrodigitalmine.com/products/vigilante-aqs-air-quality-station
+13.	Trolex. Supporting underground health and safety in real time – Trolex [Internet]. [citado 2 de septiembre de 2026]. Disponible en: https://trolex.com/supporting-underground-health-and-safety-in-real-time/
+14.	CONSPEC Controls Inc. Mining & Tunneling - Monitoring & Ventilation Control Equipment | CONSPEC Controls Inc [Internet]. 21 de junio de 2021 [citado 2 de septiembre de 2026]. Disponible en: https://conspec-controls.com/industries/mining-tunneling/
+15.	王作舟, 杨林雪, 于涛. Underground coal mine safety electronic monitoring device [Internet]. CN220667645U, 2024 [citado 2 de septiembre de 2026]. Disponible en: https://patents.google.com/patent/CN220667645U/en
+16.	Albinger RE, Lawler CT, Michaud T, Berube M, Dunkin B, Hakins DW, et al. Gas Monitor, System and Method [Internet]. US20150145685A1, 2015 [citado 2 de septiembre de 2026]. Disponible en: https://patents.google.com/patent/US20150145685A1/en
+17.	梁自荣. Portable wireless multi-parameter gas detection and personnel search and rescue instrument [Internet]. CN203489910U, 2014 [citado 11 de noviembre de 2026]. Disponible en: https://patents.google.com/patent/CN203489910U/en
+18.	Tajima S, Takei Y. Portable gas detector [Internet]. US7178381B2, 2007 [citado 6 de octubre de 2026]. Disponible en: https://patents.google.com/patent/US7178381B2/en
+19.	Johnson D, Clark N, Barr A, Cappellini B. Methane watchdog system, a cost effective approach to longwall methane monitoring and control [Internet]. US12031888B2, 2024 [citado 6 de octubre de 2026]. Disponible en: https://patents.google.com/patent/US12031888B2/en
+20.	EVJU JK, Fillmore RL. Systems and methods for membrane  blockage detection in gas detectors [Internet]. EP4170318B1, 2026 [citado 6 de octubre de 2026]. Disponible en: https://patents.google.com/patent/EP4170318B1/en
+21.	Hassan HZ ul, Wang A, Mohi-ud-din G. A wireless sensor network for coal mine safety powered by modified localization algorithm. Heliyon. 15 de enero de 2025;11(1):e41262. doi:10.1016/j.heliyon.2024.e41262
+22.	Zhang Y, Yang W, Han D, Kim YI. An Integrated Environment Monitoring System for Underground Coal Mines—Wireless Sensor Network Subsystem with Multi-Parameter Monitoring. Sensors. julio de 2014;14(7):13149-70. doi:10.3390/s140713149
+23.	Bashu B, Srikanth B. Artificial Intelligence Enabled Wireless Sensor Network for Underground Mines Safety: A Systematic Review. Journal of The Institution of Engineers (India): Series D. 17 de diciembre de 2025. doi:10.1007/s40033-025-00971-1
+24.	Asencio Puma F. Implementación de un sistema de monitoreo ambiental con sensores inteligentes para mejorar la seguridad en pequeña minería subterránea, Trujillo 2024 [Tesis de grado] [Internet]. Universidad Católica de Santa María; 2026 [citado 2 de septiembre de 2026]. Disponible en: https://repositorio.ucsm.edu.pe/items/cbbd5c57-d136-44a1-b833-32aa96c7719c
+25.	Useche Galindo LJ. Diseño de un sistema de supervisión y control de gases contaminantes para minas subterráneas [Trabajo de grado] [Internet]. Universidad Distrital Francisco José de Caldas; 2025 [citado 2 de septiembre de 2026]. Disponible en: https://repository.udistrital.edu.co/handle/11349/100323
+26.	Pozo Bulnes CA, Ari Uturonco JAN. Modelamiento y diagnóstico del circuito actual de ventilación en una mina subterránea y propuesta de mejora [Tesis de grado] [Internet]. Pontificia Universidad Católica del Perú; 2023 [citado 2 de septiembre de 2026]. Disponible en: https://tesis.pucp.edu.pe/handle/20.500.12404/25925
+27.	Hanwei Electronics. Technical Data MQ-4 Gas Sensor [Ficha técnica] [Internet]. Hanwei Electronics; [citado 11 de noviembre de 2026]. Ficha técnica MQ-4. Disponible en: https://cdn.sparkfun.com/assets/e/f/c/7/d/MQ-4.pdf
+28.	Hanwei Electronics Co., Ltd. Technical Data MQ-7 Gas Sensor [Ficha técnica] [Internet]. Hanwei Electronics Co., Ltd.; [citado 11 de noviembre de 2026]. Ficha técnica MQ-7. Disponible en: https://cdn.sparkfun.com/assets/b/b/b/3/4/MQ-7.pdf
+29.	Aosong Electronics. DHT11 Humidity & Temperature Sensor [Internet]. Aosong Electronics; [citado 11 de noviembre de 2026]. Disponible en: https://www.mouser.com/datasheet/2/758/DHT11-Technical-Data-Sheet-Translated-Version-1143054.pdf
+30.	Seeed Studio. Grove - Vibration Sensor (SW-420) [Internet]. [citado 11 de noviembre de 2026]. Disponible en: https://wiki.seeedstudio.com/Grove-Vibration_Sensor_SW-420/
+31.	Arduino. UNO R3 [Internet]. [citado 6 de octubre de 2026]. Disponible en: https://docs.arduino.cc/hardware/uno-rev3/
+32.	Hitachi, Ltd. HD44780U (LCD-II), (Dot Matrix Liquid Crystal Display Controller/Driver) [Internet]. Hitachi, Ltd.; septiembre de 1999 [citado 11 de noviembre de 2026]. Report ADE-207-272(Z). Disponible en: https://www.sparkfun.com/datasheets/LCD/HD44780.pdf
+33.	Digi International Inc. XBee/XBee-PRO S2C Zigbee RF Module User Guide [Internet]. Digi International Inc.; julio de 2024 [citado 11 de noviembre de 2026]. Report 90002002 AP. Disponible en: https://www.digi.com/resources/documentation/digidocs/pdfs/90002002.pdf
+34.	Texas Instruments. LM2596 SIMPLE SWITCHER Power Converter 150-kHz 3-A Step-Down Voltage Regulator [Internet]. Texas Instruments; marzo de 2023 [citado 11 de noviembre de 2026]. Report no.: SNVS124G. Disponible en: https://www.ti.com/lit/ds/symlink/lm2596.pdf
+35.	SIMCom. SIM900 AT Commands Manual V1.11 [Internet]. SIMCom; enero de 2015 [citado 11 de noviembre de 2026]. Disponible en: https://simcom.ee/documents/SIM900/SIM900_AT%20Command%20Manual_V1.11.pdf
+36.	SIMCom. SIM900 Hardware Design V2.05 [Internet]. SIMCom; agosto de 2013 [citado 11 de noviembre de 2026]. Disponible en: https://simcom.ee/documents/SIM900/SIM900_Hardware%20Design_V2.05.pdf
+37.	Texas Instruments. L293x Quadruple Half-H Drivers [Ficha técnica] [Internet]. Texas Instruments; enero de 2016 [citado 11 de noviembre de 2026]. Ficha técnica no.: SLRS008D. Disponible en: https://www.ti.com/lit/ds/symlink/l293d.pdf
+38.	Arduino. LiquidCrystal [Internet]. [citado 11 de noviembre de 2026]. Disponible en: https://docs.arduino.cc/libraries/liquidcrystal/
+39.	Zhang H, Li B, Karimi M, Saydam S, Hassan M. Recent Advancements in IoT Implementation for Environmental, Safety, and Production Monitoring in Underground Mines. IEEE Internet of Things Journal. agosto de 2023;10(16):14507-26. doi:10.1109/JIOT.2023.3267828
